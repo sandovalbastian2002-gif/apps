@@ -1,0 +1,502 @@
+[
+  {
+    "id": "FINANCE_E_001",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es el 'interés' en el contexto financiero?",
+    "options": ["El dinero que se pierde al gastar", "El costo o beneficio de prestar o tomar dinero prestado, expresado generalmente como un porcentaje", "Un impuesto obligatorio del gobierno", "El valor total de una propiedad"],
+    "correctIndex": 1,
+    "explanation": "El interés es la cantidad que se paga o se recibe por el uso del dinero a lo largo del tiempo, usualmente calculada como un porcentaje del monto prestado o invertido."
+  },
+  {
+    "id": "FINANCE_E_002",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es un 'presupuesto' personal?",
+    "options": ["Un préstamo bancario sin intereses", "Un plan que organiza los ingresos y gastos durante un período de tiempo", "Un tipo de inversión de alto riesgo", "Un documento legal para comprar una casa"],
+    "correctIndex": 1,
+    "explanation": "Un presupuesto es una herramienta de planificación que ayuda a organizar cuánto dinero entra y cuánto se gasta en un período determinado."
+  },
+  {
+    "id": "FINANCE_E_003",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué describe mejor el concepto de 'inflación'?",
+    "options": ["La disminución generalizada de los precios de bienes y servicios", "El aumento generalizado y sostenido de los precios de bienes y servicios", "El crecimiento del número de empleos en un país", "La cantidad de dinero que una persona ahorra al mes"],
+    "correctIndex": 1,
+    "explanation": "La inflación es el aumento sostenido en el nivel general de precios, lo que reduce el poder de compra del dinero con el tiempo."
+  },
+  {
+    "id": "FINANCE_E_004",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué significa 'ahorrar' dinero?",
+    "options": ["Gastar todo el ingreso disponible de inmediato", "Reservar una parte del ingreso para uso futuro en lugar de gastarla de inmediato", "Pedir un préstamo al banco", "Invertir en acciones de alto riesgo"],
+    "correctIndex": 1,
+    "explanation": "Ahorrar consiste en apartar una porción del dinero disponible para utilizarla en el futuro, en lugar de consumirla inmediatamente."
+  },
+  {
+    "id": "FINANCE_E_005",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué representa una 'acción' de una empresa que cotiza en bolsa?",
+    "options": ["Un préstamo que la empresa debe pagar con intereses fijos", "Una pequeña parte de la propiedad de la empresa", "Un impuesto que paga la empresa", "Un seguro contra pérdidas de la empresa"],
+    "correctIndex": 1,
+    "explanation": "Una acción representa una fracción de la propiedad de una empresa; quien la posee se convierte en accionista y tiene derecho a una parte de sus beneficios."
+  },
+  {
+    "id": "FINANCE_E_006",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es una 'deuda'?",
+    "options": ["Dinero que una persona ha ahorrado", "Dinero que una persona o entidad debe a otra y que generalmente debe devolver con intereses", "Un tipo de impuesto anual", "El valor de mercado de una propiedad"],
+    "correctIndex": 1,
+    "explanation": "Una deuda es una obligación de pagar una cantidad de dinero prestado, usualmente junto con intereses, en un plazo determinado."
+  },
+  {
+    "id": "FINANCE_E_007",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué beneficio ofrece típicamente una cuenta de ahorro en un banco?",
+    "options": ["Cobra intereses al titular por guardar su dinero", "Paga intereses al titular por mantener su dinero depositado", "Garantiza ganancias ilimitadas sin riesgo", "Elimina automáticamente todas las deudas del titular"],
+    "correctIndex": 1,
+    "explanation": "Una cuenta de ahorro suele pagar intereses al depositante como incentivo por mantener su dinero en el banco."
+  },
+  {
+    "id": "FINANCE_E_008",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En finanzas, ¿qué se entiende por 'capital' o 'principal' en un préstamo o inversión?",
+    "options": ["El interés acumulado a lo largo del tiempo", "La cantidad de dinero inicial prestada o invertida, sin incluir intereses", "El impuesto aplicado a la transacción", "La ganancia total obtenida al final del período"],
+    "correctIndex": 1,
+    "explanation": "El capital o principal es el monto original de dinero prestado o invertido, antes de sumar los intereses generados."
+  },
+  {
+    "id": "FINANCE_E_009",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué significa 'diversificar' una inversión?",
+    "options": ["Invertir todo el dinero en un solo activo para maximizar ganancias", "Repartir el dinero entre distintos activos para reducir el riesgo", "Gastar el dinero en artículos de lujo", "Guardar todo el dinero en efectivo bajo el colchón"],
+    "correctIndex": 1,
+    "explanation": "Diversificar consiste en distribuir las inversiones entre diferentes activos, sectores o instrumentos para reducir el impacto si uno de ellos pierde valor."
+  },
+  {
+    "id": "FINANCE_E_010",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es una tarjeta de crédito?",
+    "options": ["Una tarjeta que solo permite usar el dinero que ya se tiene depositado", "Un instrumento que permite al usuario pedir dinero prestado al banco para pagar compras, que debe devolver después, usualmente con intereses si no paga a tiempo", "Un documento de identidad bancaria sin función financiera", "Un seguro médico vinculado al banco"],
+    "correctIndex": 1,
+    "explanation": "Una tarjeta de crédito otorga una línea de crédito que permite comprar ahora y pagar después, generando intereses si el saldo no se cubre completamente dentro del plazo."
+  },
+  {
+    "id": "FINANCE_E_011",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué mide el Producto Interno Bruto (PIB) de un país?",
+    "options": ["La cantidad total de dinero impreso por el gobierno", "El valor total de bienes y servicios producidos en un país durante un período determinado", "El número total de empresas registradas", "La deuda externa total del país"],
+    "correctIndex": 1,
+    "explanation": "El PIB mide el valor monetario total de todos los bienes y servicios producidos dentro de un país en un período de tiempo específico."
+  },
+  {
+    "id": "FINANCE_E_012",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué mide el 'retorno de inversión' (ROI)?",
+    "options": ["El tiempo que tarda una empresa en declararse en quiebra", "La ganancia o pérdida generada por una inversión en relación con su costo", "El número de empleados de una empresa", "La cantidad de impuestos pagados por una inversión"],
+    "correctIndex": 1,
+    "explanation": "El retorno de inversión (ROI) compara la ganancia o pérdida obtenida de una inversión con el capital invertido, generalmente expresado como porcentaje."
+  },
+  {
+    "id": "FINANCE_E_013",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el propósito principal de un 'fondo de emergencia'?",
+    "options": ["Invertir en acciones de alto riesgo para obtener ganancias rápidas", "Cubrir gastos imprevistos como pérdida de empleo o emergencias médicas", "Pagar impuestos anuales obligatorios", "Reemplazar completamente el salario mensual de una persona"],
+    "correctIndex": 1,
+    "explanation": "Un fondo de emergencia es un ahorro reservado específicamente para afrontar gastos inesperados sin recurrir a deudas."
+  },
+  {
+    "id": "FINANCE_E_014",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué indica el 'tipo de cambio' entre dos monedas?",
+    "options": ["La cantidad de impuestos que se pagan al cambiar dinero", "Cuánto vale una moneda en relación con otra", "La tasa de inflación de un país", "El valor de las acciones en bolsa"],
+    "correctIndex": 1,
+    "explanation": "El tipo de cambio expresa el valor relativo de una moneda frente a otra, determinando cuánto se obtiene de una al convertir cierta cantidad de la otra."
+  },
+  {
+    "id": "FINANCE_E_015",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cómo se calcula el 'patrimonio neto' de una persona?",
+    "options": ["Sumando únicamente sus ingresos mensuales", "Restando el total de sus deudas al total de sus activos (bienes y ahorros)", "Multiplicando su salario por doce meses", "Sumando solo el dinero en efectivo que posee"],
+    "correctIndex": 1,
+    "explanation": "El patrimonio neto se obtiene restando el total de las deudas (pasivos) al valor total de los bienes y ahorros (activos) que posee una persona."
+  },
+  {
+    "id": "FINANCE_E_016",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de los siguientes es un ejemplo típico de 'gasto fijo' mensual?",
+    "options": ["El pago del arriendo o alquiler de la vivienda", "El gasto en entretenimiento variable cada mes", "Compras ocasionales de ropa", "Propinas esporádicas en restaurantes"],
+    "correctIndex": 0,
+    "explanation": "Un gasto fijo, como el arriendo, se mantiene aproximadamente constante cada mes, a diferencia de los gastos variables que cambian según el consumo."
+  },
+  {
+    "id": "FINANCE_E_017",
+    "category": "FINANCE",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es la función principal de un seguro (de salud, de auto, etc.)?",
+    "options": ["Garantizar ganancias seguras en inversiones", "Proteger financieramente ante pérdidas o eventos inesperados a cambio del pago de una prima", "Eliminar la necesidad de ahorrar dinero", "Aumentar automáticamente el salario del asegurado"],
+    "correctIndex": 1,
+    "explanation": "Un seguro ofrece protección financiera frente a riesgos específicos, a cambio del pago periódico de una prima, transfiriendo el riesgo a la aseguradora."
+  },
+  {
+    "id": "FINANCE_M_001",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia principal entre el interés simple y el interés compuesto?",
+    "options": ["El interés simple se calcula solo sobre el capital inicial, mientras que el compuesto se calcula también sobre los intereses acumulados", "El interés compuesto siempre es menor que el simple", "No existe ninguna diferencia real entre ambos", "El interés simple solo aplica a préstamos hipotecarios"],
+    "correctIndex": 0,
+    "explanation": "El interés simple se calcula únicamente sobre el capital original, mientras que el interés compuesto se recalcula periódicamente incluyendo los intereses ya generados, lo que produce un crecimiento acelerado."
+  },
+  {
+    "id": "FINANCE_M_002",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "Si inviertes $1.000 a una tasa de interés compuesto anual del 10%, ¿aproximadamente cuánto tendrás al final del segundo año?",
+    "options": ["$1.100", "$1.200", "$1.210", "$1.000"],
+    "correctIndex": 2,
+    "explanation": "Con interés compuesto, el primer año genera $1.100; el segundo año el 10% se aplica sobre $1.100, dando $1.210 en total."
+  },
+  {
+    "id": "FINANCE_M_003",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué diferencia hay entre la 'tasa de interés nominal' y la 'tasa de interés real'?",
+    "options": ["No hay ninguna diferencia, son sinónimos", "La tasa real resta el efecto de la inflación a la tasa nominal", "La tasa nominal siempre es menor que la real", "La tasa real solo aplica a préstamos en moneda extranjera"],
+    "correctIndex": 1,
+    "explanation": "La tasa de interés real refleja el rendimiento ajustado por inflación, mientras que la tasa nominal no considera la pérdida de poder de compra del dinero."
+  },
+  {
+    "id": "FINANCE_M_004",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "Según la 'regla del 72', aproximadamente ¿en cuántos años se duplicaría una inversión con una tasa de interés compuesto anual del 8%?",
+    "options": ["Alrededor de 3 años", "Alrededor de 9 años", "Alrededor de 20 años", "Alrededor de 36 años"],
+    "correctIndex": 1,
+    "explanation": "La regla del 72 estima el tiempo de duplicación dividiendo 72 entre la tasa de interés; 72 ÷ 8 = 9 años aproximadamente."
+  },
+  {
+    "id": "FINANCE_M_005",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Por qué la diversificación ayuda a reducir el riesgo de una cartera de inversión?",
+    "options": ["Porque garantiza que todos los activos suban de valor al mismo tiempo", "Porque reduce el impacto negativo de un activo que pierde valor al estar compensado por otros que no se mueven igual", "Porque elimina por completo cualquier posibilidad de pérdida", "Porque concentra el dinero en el activo más rentable"],
+    "correctIndex": 1,
+    "explanation": "Al combinar activos que no se mueven exactamente de la misma manera, las pérdidas en algunos pueden compensarse con el comportamiento de otros, reduciendo el riesgo total de la cartera."
+  },
+  {
+    "id": "FINANCE_M_006",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "Si tu salario se mantiene igual pero la inflación anual es del 5%, ¿qué le ocurre a tu poder de compra real?",
+    "options": ["Aumenta en un 5%", "Se mantiene exactamente igual", "Disminuye, porque los precios suben mientras el ingreso no cambia", "Se vuelve imposible de calcular"],
+    "correctIndex": 2,
+    "explanation": "Si los precios suben pero el ingreso nominal no cambia, el dinero alcanza para comprar menos bienes y servicios, es decir, el poder de compra real disminuye."
+  },
+  {
+    "id": "FINANCE_M_007",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En general, ¿cuál es una diferencia clave entre invertir en acciones y en bonos?",
+    "options": ["Las acciones ofrecen un pago fijo garantizado y los bonos no", "Las acciones representan propiedad y suelen tener mayor riesgo y potencial de retorno, mientras que los bonos representan deuda con pagos más predecibles", "Los bonos siempre generan más ganancias que las acciones", "No existe diferencia de riesgo entre ambos instrumentos"],
+    "correctIndex": 1,
+    "explanation": "Las acciones otorgan una participación en la propiedad de la empresa con mayor volatilidad y potencial de ganancia, mientras que los bonos son instrumentos de deuda que generalmente ofrecen pagos de interés más predecibles y menor riesgo."
+  },
+  {
+    "id": "FINANCE_M_008",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué significa que un activo tenga alta 'liquidez'?",
+    "options": ["Que genera altos intereses garantizados", "Que puede convertirse rápidamente en efectivo sin perder mucho valor", "Que solo puede venderse después de varios años", "Que está libre de todo tipo de riesgo"],
+    "correctIndex": 1,
+    "explanation": "La liquidez se refiere a la facilidad y rapidez con la que un activo puede convertirse en dinero en efectivo sin una pérdida significativa de valor."
+  },
+  {
+    "id": "FINANCE_M_009",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En un préstamo hipotecario con cuotas fijas, ¿qué sucede típicamente con la proporción de capital e interés a lo largo del tiempo?",
+    "options": ["La proporción de interés aumenta con cada cuota hasta el final del préstamo", "Al inicio se paga mayor proporción de interés, y con el tiempo la proporción de capital pagado aumenta", "Siempre se paga la misma proporción de capital e interés en cada cuota", "El interés solo se paga en la última cuota"],
+    "correctIndex": 1,
+    "explanation": "En la amortización típica, las primeras cuotas cubren mayormente intereses sobre el saldo pendiente (que es mayor), y a medida que el saldo disminuye, una proporción mayor de cada cuota se destina a pagar capital."
+  },
+  {
+    "id": "FINANCE_M_010",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué es el 'costo de oportunidad' en una decisión financiera?",
+    "options": ["El costo monetario directo de una transacción", "El valor de la mejor alternativa que se deja de aprovechar al elegir una opción en particular", "Un impuesto aplicado a las inversiones", "La comisión que cobra un banco por un servicio"],
+    "correctIndex": 1,
+    "explanation": "El costo de oportunidad representa lo que se sacrifica (el beneficio de la mejor alternativa no elegida) al tomar una decisión económica específica."
+  },
+  {
+    "id": "FINANCE_M_011",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál de los siguientes factores influye generalmente en el 'puntaje de crédito' de una persona?",
+    "options": ["Su nivel de estudios universitarios", "Su historial de pagos y el uso de crédito disponible", "El color de su tarjeta de crédito", "La cantidad de cuentas de redes sociales que posee"],
+    "correctIndex": 1,
+    "explanation": "El puntaje de crédito se calcula principalmente a partir del historial de pagos, el nivel de endeudamiento y el uso del crédito disponible, entre otros factores financieros."
+  },
+  {
+    "id": "FINANCE_M_012",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué característica define a un 'fondo indexado' (index fund)?",
+    "options": ["Busca superar al mercado seleccionando activamente acciones individuales", "Replica el desempeño de un índice de mercado específico, como el S&P 500", "Garantiza un rendimiento fijo sin importar el mercado", "Solo invierte en bonos gubernamentales"],
+    "correctIndex": 1,
+    "explanation": "Un fondo indexado está diseñado para replicar el comportamiento de un índice bursátil determinado, en lugar de intentar superarlo mediante selección activa."
+  },
+  {
+    "id": "FINANCE_M_013",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Por qué una inflación alta y persistente suele afectar negativamente a quienes dependen de ingresos fijos, como ciertas pensiones?",
+    "options": ["Porque la inflación reduce automáticamente el monto nominal de la pensión", "Porque el poder de compra del ingreso fijo disminuye mientras los precios siguen subiendo", "Porque la inflación elimina los ingresos fijos por completo", "Porque la inflación solo afecta a quienes tienen deudas"],
+    "correctIndex": 1,
+    "explanation": "Si el ingreso nominal no se ajusta a la inflación, su capacidad de compra disminuye con el tiempo, afectando especialmente a quienes dependen de montos fijos."
+  },
+  {
+    "id": "FINANCE_M_014",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué principio financiero explica por qué $1.000 hoy valen más que $1.000 recibidos en cinco años?",
+    "options": ["El principio de la oferta y la demanda", "El valor del dinero en el tiempo, ya que el dinero disponible hoy puede invertirse y generar rendimientos", "El principio de la diversificación", "La ley de rendimientos decrecientes"],
+    "correctIndex": 1,
+    "explanation": "El valor del dinero en el tiempo indica que una cantidad disponible hoy puede invertirse para generar intereses, por lo que vale más que la misma cantidad recibida en el futuro."
+  },
+  {
+    "id": "FINANCE_M_015",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿En qué consiste la estrategia de inversión conocida como 'promedio de costo en dólares' (dollar-cost averaging)?",
+    "options": ["Invertir todo el dinero disponible de una sola vez en el punto más bajo del mercado", "Invertir una cantidad fija de dinero a intervalos regulares, sin importar el precio del activo en cada momento", "Vender todas las inversiones cuando el mercado cae", "Invertir solo cuando se predice con certeza el futuro del mercado"],
+    "correctIndex": 1,
+    "explanation": "Esta estrategia consiste en invertir montos fijos periódicamente, lo que reduce el riesgo de invertir todo el capital en un mal momento del mercado, promediando el costo de compra a lo largo del tiempo."
+  },
+  {
+    "id": "FINANCE_M_016",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué caracteriza a un sistema de impuesto sobre la renta 'progresivo'?",
+    "options": ["Todos los contribuyentes pagan exactamente el mismo porcentaje de impuestos", "La tasa de impuesto aumenta a medida que aumenta el nivel de ingreso", "Solo las empresas pagan impuestos, nunca las personas", "La tasa de impuesto disminuye a medida que aumenta el ingreso"],
+    "correctIndex": 1,
+    "explanation": "En un sistema progresivo, las personas con mayores ingresos pagan una tasa porcentual más alta de impuestos que quienes tienen ingresos menores."
+  },
+  {
+    "id": "FINANCE_M_017",
+    "category": "FINANCE",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué diferencia existe entre el 'riesgo diversificable' y el 'riesgo de mercado' (sistemático) en una inversión?",
+    "options": ["El riesgo diversificable puede reducirse combinando distintos activos, mientras que el riesgo de mercado afecta a toda la economía y no puede eliminarse diversificando", "Ambos tipos de riesgo pueden eliminarse por completo diversificando", "El riesgo de mercado solo afecta a una empresa específica", "No existe ninguna diferencia entre ambos conceptos"],
+    "correctIndex": 0,
+    "explanation": "El riesgo diversificable (específico de un activo o sector) puede reducirse combinando inversiones distintas, mientras que el riesgo de mercado afecta a la economía en general y no se elimina mediante diversificación."
+  },
+  {
+    "id": "FINANCE_H_001",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Según la aproximación de Fisher, si la tasa de interés nominal es del 8% y la inflación anual es del 3%, ¿cuál es aproximadamente la tasa de interés real?",
+    "options": ["11%", "8%", "5%", "3%"],
+    "correctIndex": 2,
+    "explanation": "La aproximación de Fisher indica que la tasa real es aproximadamente igual a la tasa nominal menos la inflación: 8% − 3% = 5%."
+  },
+  {
+    "id": "FINANCE_H_002",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Usando la fórmula de interés compuesto A = P(1 + r/n)^(nt), si el interés se capitaliza mensualmente (n=12) en lugar de anualmente (n=1) a la misma tasa nominal anual, ¿qué efecto tiene esto sobre el monto final?",
+    "options": ["El monto final será menor que con capitalización anual", "El monto final será exactamente igual en ambos casos", "El monto final será mayor, porque los intereses se calculan y suman con más frecuencia", "La fórmula no permite capitalización mensual"],
+    "correctIndex": 2,
+    "explanation": "Al capitalizar con mayor frecuencia, los intereses generados se suman al capital más a menudo y comienzan a generar más intereses antes, produciendo un monto final ligeramente mayor que con capitalización anual a la misma tasa nominal."
+  },
+  {
+    "id": "FINANCE_H_003",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En economía financiera, ¿qué se interpreta tradicionalmente cuando la curva de rendimientos de bonos del gobierno se 'invierte' (los bonos a corto plazo pagan más que los de largo plazo)?",
+    "options": ["Es una señal típica de fuerte expansión económica futura", "Se considera históricamente un posible indicador adelantado de una recesión económica", "Indica que la inflación ha desaparecido por completo", "No tiene ninguna relación con el ciclo económico"],
+    "correctIndex": 1,
+    "explanation": "Una curva de rendimientos invertida ha sido históricamente asociada con expectativas de desaceleración económica y se considera un posible indicador adelantado de recesión."
+  },
+  {
+    "id": "FINANCE_H_004",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el mercado de bonos, ¿qué mide aproximadamente el concepto de 'duración' (duration)?",
+    "options": ["El tiempo exacto hasta que el bono paga su primer cupón", "La sensibilidad aproximada del precio de un bono ante cambios en las tasas de interés", "El riesgo de que el emisor del bono no pague su deuda", "El número total de inversionistas que poseen el bono"],
+    "correctIndex": 1,
+    "explanation": "La duración estima cuánto cambiará aproximadamente el precio de un bono ante variaciones en las tasas de interés; a mayor duración, mayor sensibilidad del precio a esos cambios."
+  },
+  {
+    "id": "FINANCE_H_005",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el Modelo de Valoración de Activos de Capital (CAPM), ¿qué representa el coeficiente 'beta' de una acción?",
+    "options": ["El dividendo anual que paga la acción", "La volatilidad de la acción en relación con el mercado en general", "El precio mínimo histórico de la acción", "La cantidad de acciones en circulación de la empresa"],
+    "correctIndex": 1,
+    "explanation": "El beta mide la sensibilidad o volatilidad relativa de una acción respecto a los movimientos del mercado en general; un beta mayor a 1 indica mayor volatilidad que el mercado."
+  },
+  {
+    "id": "FINANCE_H_006",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el contexto de los seguros, ¿qué describe el concepto de 'riesgo moral' (moral hazard)?",
+    "options": ["La tendencia de las personas a comprar más seguros de los que necesitan", "El cambio de comportamiento de una persona hacia una mayor asunción de riesgos al estar protegida por un seguro", "La imposibilidad de calcular primas de seguro", "El fraude directo cometido por las compañías aseguradoras"],
+    "correctIndex": 1,
+    "explanation": "El riesgo moral ocurre cuando una persona, al estar asegurada contra ciertas pérdidas, tiende a comportarse de manera más riesgosa porque no asume las consecuencias completas de sus actos."
+  },
+  {
+    "id": "FINANCE_H_007",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Al evaluar un proyecto de inversión mediante el Valor Presente Neto (VPN o NPV), ¿qué indica un VPN positivo?",
+    "options": ["Que el proyecto generará pérdidas seguras", "Que el valor presente de los flujos de efectivo futuros esperados supera la inversión inicial, por lo que el proyecto crea valor", "Que el proyecto no tiene ningún riesgo", "Que la tasa de descuento utilizada es incorrecta"],
+    "correctIndex": 1,
+    "explanation": "Un VPN positivo significa que, descontando los flujos futuros a una tasa de descuento dada, el valor generado supera el costo de la inversión inicial, lo que sugiere que el proyecto añade valor."
+  },
+  {
+    "id": "FINANCE_H_008",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es una causa comúnmente asociada a episodios de hiperinflación extrema en una economía?",
+    "options": ["Una política monetaria extremadamente restrictiva con tasas de interés muy altas", "La impresión masiva y descontrolada de dinero por parte del gobierno, a menudo para financiar déficits fiscales", "Un superávit comercial sostenido durante décadas", "La reducción generalizada del gasto público"],
+    "correctIndex": 1,
+    "explanation": "La hiperinflación suele originarse cuando un gobierno financia un déficit fiscal mediante la impresión masiva de dinero, lo que provoca una pérdida acelerada del valor de la moneda."
+  },
+  {
+    "id": "FINANCE_H_009",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Por qué se dice que el 'apalancamiento financiero' (usar deuda para invertir) amplifica tanto las ganancias como las pérdidas?",
+    "options": ["Porque elimina por completo el riesgo de la inversión", "Porque los resultados se calculan sobre el capital propio, pero la exposición total incluye también el dinero prestado, magnificando el porcentaje de ganancia o pérdida sobre ese capital propio", "Porque los préstamos nunca generan intereses", "Porque el apalancamiento solo se aplica a inversiones sin riesgo"],
+    "correctIndex": 1,
+    "explanation": "Al invertir con dinero prestado además del propio, cualquier movimiento del activo se traduce en un porcentaje de ganancia o pérdida mayor sobre el capital propio invertido, ya que la exposición total es mayor que ese capital."
+  },
+  {
+    "id": "FINANCE_H_010",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué plantea la 'hipótesis del mercado eficiente' en su forma semifuerte?",
+    "options": ["Que los precios de los activos nunca cambian", "Que los precios de los activos reflejan toda la información pública disponible, haciendo difícil superar al mercado de forma consistente usando esa información", "Que solo los inversionistas institucionales pueden obtener ganancias", "Que la información privada siempre está reflejada en los precios"],
+    "correctIndex": 1,
+    "explanation": "La forma semifuerte de la hipótesis del mercado eficiente sostiene que los precios ya incorporan toda la información pública disponible, por lo que analizar esa información no debería permitir obtener rendimientos superiores de forma consistente."
+  },
+  {
+    "id": "FINANCE_H_011",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Por qué el precio de un bono existente con tasa fija tiende a caer cuando las tasas de interés del mercado suben?",
+    "options": ["Porque el emisor del bono deja de pagar los cupones", "Porque los nuevos bonos emitidos ofrecerán cupones más atractivos, haciendo menos deseable el bono antiguo con su tasa fija más baja", "Porque la inflación siempre sube al mismo tiempo que las tasas", "Porque los bonos con tasa fija aumentan automáticamente su cupón"],
+    "correctIndex": 1,
+    "explanation": "Cuando las tasas de interés del mercado suben, los bonos nuevos ofrecen cupones más altos; para que un bono antiguo con cupón fijo más bajo siga siendo atractivo, su precio debe bajar."
+  },
+  {
+    "id": "FINANCE_H_012",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "El concepto de 'utilidad marginal decreciente' aplicado al dinero explica por qué...",
+    "options": ["Cada unidad adicional de dinero genera cada vez más satisfacción a medida que una persona es más rica", "Cada unidad adicional de dinero tiende a generar cada vez menos satisfacción adicional a medida que aumenta la riqueza de una persona", "El dinero siempre pierde valor con el tiempo debido a la inflación", "Las personas pobres valoran menos el dinero que las personas ricas"],
+    "correctIndex": 1,
+    "explanation": "La utilidad marginal decreciente indica que, a medida que una persona acumula más riqueza, cada unidad adicional de dinero le proporciona una satisfacción o beneficio marginal cada vez menor."
+  },
+  {
+    "id": "FINANCE_H_013",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En la planificación de retiro, ¿qué describe el 'riesgo de secuencia de retornos' (sequence of returns risk)?",
+    "options": ["El riesgo de que la inflación promedio sea mayor a lo esperado durante toda la vida", "El riesgo de que rendimientos negativos ocurran justo al inicio del período de retiros, afectando desproporcionadamente la duración de los ahorros", "El riesgo de elegir mal el banco donde se guardan los ahorros", "El riesgo de que las tasas de interés bajen a cero"],
+    "correctIndex": 1,
+    "explanation": "Si se realizan retiros regulares de una cartera y ocurren pérdidas importantes al principio del período de retiro, el capital se reduce más rápidamente y tiene menos oportunidad de recuperarse, afectando la sostenibilidad de los ahorros a largo plazo."
+  },
+  {
+    "id": "FINANCE_H_014",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia entre el PIB nominal y el PIB real de un país?",
+    "options": ["El PIB nominal se mide en una moneda extranjera y el real en moneda local", "El PIB nominal se calcula a precios corrientes, mientras que el PIB real se ajusta para eliminar el efecto de la inflación, permitiendo comparar el crecimiento económico real entre períodos", "No existe ninguna diferencia entre ambos conceptos", "El PIB real siempre es mayor que el PIB nominal"],
+    "correctIndex": 1,
+    "explanation": "El PIB nominal refleja los precios del período en que se mide, mientras que el PIB real se ajusta por inflación usando precios constantes, permitiendo medir el crecimiento económico genuino sin la distorsión de los cambios de precios."
+  },
+  {
+    "id": "FINANCE_H_015",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En la teoría moderna de carteras, ¿por qué combinar activos con baja o negativa correlación entre sí reduce el riesgo total de una cartera, incluso si ambos activos son individualmente riesgosos?",
+    "options": ["Porque sus rendimientos tienden a moverse de forma similar al mismo tiempo, amplificando las ganancias", "Porque cuando uno de los activos tiene un mal desempeño, el otro tiende a comportarse de manera diferente (o compensatoria), suavizando la variabilidad conjunta de la cartera", "Porque la correlación nunca afecta el riesgo de una cartera", "Porque elimina por completo cualquier posibilidad de pérdida en la cartera"],
+    "correctIndex": 1,
+    "explanation": "Cuando los activos tienen baja o negativa correlación, sus movimientos no coinciden en el tiempo, por lo que las pérdidas de uno pueden ser compensadas por el comportamiento del otro, reduciendo la volatilidad conjunta de la cartera sin necesariamente reducir el retorno esperado."
+  },
+  {
+    "id": "FINANCE_H_016",
+    "category": "FINANCE",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Por qué los bancos centrales suelen subir las tasas de interés de referencia cuando buscan controlar una inflación elevada?",
+    "options": ["Porque tasas más altas incentivan directamente a las empresas a reducir sus precios de forma obligatoria", "Porque tasas más altas encarecen el crédito, desincentivando el consumo y la inversión, lo que tiende a reducir la demanda agregada y las presiones inflacionarias", "Porque las tasas de interés no tienen relación con la inflación", "Porque subir las tasas aumenta automáticamente la oferta de bienes en la economía"],
+    "correctIndex": 1,
+    "explanation": "Al subir las tasas de interés, pedir dinero prestado se vuelve más costoso, lo que desincentiva el consumo y la inversión; esta reducción de la demanda agregada ayuda a moderar las presiones sobre los precios."
+  }
+]

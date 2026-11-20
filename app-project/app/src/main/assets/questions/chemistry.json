@@ -1,0 +1,502 @@
+[
+  {
+    "id": "CHEMISTRY_E_001",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": ["CO2", "H2O", "NaCl", "O2"],
+    "correctIndex": 1,
+    "explanation": "El agua está formada por dos átomos de hidrógeno y uno de oxígeno, de ahí su fórmula H2O."
+  },
+  {
+    "id": "CHEMISTRY_E_002",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el símbolo químico del oro?",
+    "options": ["Ag", "Au", "Or", "Go"],
+    "correctIndex": 1,
+    "explanation": "El símbolo químico del oro proviene de su nombre en latín, 'aurum', y es Au."
+  },
+  {
+    "id": "CHEMISTRY_E_003",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es la unidad más pequeña de un elemento químico que conserva sus propiedades?",
+    "options": ["Molécula", "Átomo", "Ion", "Electrón"],
+    "correctIndex": 1,
+    "explanation": "El átomo es la unidad fundamental de un elemento que mantiene sus propiedades químicas características."
+  },
+  {
+    "id": "CHEMISTRY_E_004",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Quién es reconocido como el principal creador de la tabla periódica moderna de los elementos?",
+    "options": ["Isaac Newton", "Dmitri Mendeléiev", "Albert Einstein", "Marie Curie"],
+    "correctIndex": 1,
+    "explanation": "Dmitri Mendeléiev organizó los elementos conocidos en una tabla periódica en 1869, ordenándolos según su masa atómica y propiedades."
+  },
+  {
+    "id": "CHEMISTRY_E_005",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué indica un valor de pH menor a 7 en una sustancia?",
+    "options": ["Que es básica o alcalina", "Que es neutra", "Que es ácida", "Que no tiene propiedades químicas"],
+    "correctIndex": 2,
+    "explanation": "Un pH por debajo de 7 indica que la sustancia es ácida; un pH de 7 es neutro y por encima de 7 es básico."
+  },
+  {
+    "id": "CHEMISTRY_E_006",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuáles son los tres estados fundamentales de la materia?",
+    "options": ["Sólido, líquido y gaseoso", "Ácido, básico y neutro", "Orgánico, inorgánico y mineral", "Puro, mezcla y compuesto"],
+    "correctIndex": 0,
+    "explanation": "Los tres estados clásicos de la materia son sólido, líquido y gaseoso (además del plasma en condiciones especiales)."
+  },
+  {
+    "id": "CHEMISTRY_E_007",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el símbolo químico del oxígeno?",
+    "options": ["Ox", "O", "Og", "O2"],
+    "correctIndex": 1,
+    "explanation": "El símbolo químico del oxígeno es simplemente la letra O; O2 representa la molécula de oxígeno gaseoso, no el símbolo del elemento."
+  },
+  {
+    "id": "CHEMISTRY_E_008",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué compuesto representa la fórmula química NaCl?",
+    "options": ["Agua", "Sal común (cloruro de sodio)", "Azúcar", "Vinagre"],
+    "correctIndex": 1,
+    "explanation": "NaCl es la fórmula del cloruro de sodio, conocido comúnmente como sal de mesa."
+  },
+  {
+    "id": "CHEMISTRY_E_009",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes es una característica de una mezcla, a diferencia de un compuesto?",
+    "options": ["Sus componentes están unidos por enlaces químicos fijos", "Sus componentes pueden separarse por métodos físicos y mantienen sus propiedades", "Siempre tiene una fórmula química fija", "No puede existir en estado líquido"],
+    "correctIndex": 1,
+    "explanation": "En una mezcla, los componentes conservan sus propiedades individuales y pueden separarse por métodos físicos como filtración o decantación."
+  },
+  {
+    "id": "CHEMISTRY_E_010",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En la tabla periódica, ¿cómo se llaman las columnas verticales que agrupan elementos con propiedades químicas similares?",
+    "options": ["Periodos", "Grupos (o familias)", "Series", "Bloques"],
+    "correctIndex": 1,
+    "explanation": "Las columnas verticales de la tabla periódica se llaman grupos o familias, y agrupan elementos con propiedades químicas similares."
+  },
+  {
+    "id": "CHEMISTRY_E_011",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué elemento es necesario, junto con un combustible, para que ocurra una reacción de combustión?",
+    "options": ["Nitrógeno", "Oxígeno", "Hidrógeno", "Helio"],
+    "correctIndex": 1,
+    "explanation": "La combustión es una reacción química de oxidación que requiere oxígeno para producir calor, luz y, generalmente, dióxido de carbono y agua."
+  },
+  {
+    "id": "CHEMISTRY_E_012",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es la fórmula química del dióxido de carbono?",
+    "options": ["CO", "CO2", "C2O", "CO3"],
+    "correctIndex": 1,
+    "explanation": "El dióxido de carbono está compuesto por un átomo de carbono y dos de oxígeno, representado como CO2."
+  },
+  {
+    "id": "CHEMISTRY_E_013",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes sustancias es un ejemplo común de ácido?",
+    "options": ["Agua pura", "Vinagre", "Sal de mesa", "Azúcar"],
+    "correctIndex": 1,
+    "explanation": "El vinagre contiene ácido acético, lo que le da sus propiedades ácidas y su sabor característico."
+  },
+  {
+    "id": "CHEMISTRY_E_014",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cómo se define un 'elemento químico'?",
+    "options": ["Una sustancia formada por dos o más tipos de átomos diferentes", "Una sustancia pura formada por un solo tipo de átomo", "Cualquier mezcla homogénea", "Un compuesto disuelto en agua"],
+    "correctIndex": 1,
+    "explanation": "Un elemento químico está formado por átomos de un solo tipo, con el mismo número de protones en su núcleo."
+  },
+  {
+    "id": "CHEMISTRY_E_015",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué característica distingue a los 'gases nobles' en la tabla periódica?",
+    "options": ["Son muy reactivos y explosivos", "Tienen una capa de electrones externa completa y son poco reactivos", "Solo existen en estado líquido", "Son todos metales pesados"],
+    "correctIndex": 1,
+    "explanation": "Los gases nobles tienen su capa electrónica externa completa, lo que los hace química y mayormente inertes."
+  },
+  {
+    "id": "CHEMISTRY_E_016",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el símbolo químico del hierro?",
+    "options": ["Ir", "Fe", "Hr", "Fr"],
+    "correctIndex": 1,
+    "explanation": "El símbolo del hierro, Fe, proviene de su nombre en latín 'ferrum'."
+  },
+  {
+    "id": "CHEMISTRY_E_017",
+    "category": "CHEMISTRY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes es un ejemplo de cambio químico, y no solo físico?",
+    "options": ["Derretir hielo", "Cortar un trozo de papel", "Quemar madera", "Disolver sal en agua"],
+    "correctIndex": 2,
+    "explanation": "Quemar madera produce nuevas sustancias (cenizas, dióxido de carbono, vapor de agua) mediante una reacción química, a diferencia de los cambios físicos que no alteran la composición."
+  },
+  {
+    "id": "CHEMISTRY_M_001",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué representa el 'número atómico' de un elemento?",
+    "options": ["El número de neutrones en el núcleo", "El número de protones en el núcleo", "La masa total del átomo", "El número de electrones en la última capa"],
+    "correctIndex": 1,
+    "explanation": "El número atómico corresponde a la cantidad de protones en el núcleo de un átomo, y determina de qué elemento se trata."
+  },
+  {
+    "id": "CHEMISTRY_M_002",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "Para balancear la ecuación H2 + O2 → H2O, ¿qué coeficientes se deben usar para que quede correctamente balanceada?",
+    "options": ["H2 + O2 → H2O", "2H2 + O2 → 2H2O", "H2 + 2O2 → H2O", "3H2 + O2 → 2H2O"],
+    "correctIndex": 1,
+    "explanation": "La ecuación balanceada es 2H2 + O2 → 2H2O, ya que así el número de átomos de hidrógeno y oxígeno es igual en ambos lados."
+  },
+  {
+    "id": "CHEMISTRY_M_003",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué son los 'isótopos' de un elemento?",
+    "options": ["Átomos del mismo elemento con diferente número de protones", "Átomos del mismo elemento con el mismo número de protones pero diferente número de neutrones", "Elementos diferentes con la misma masa atómica", "Moléculas formadas por el mismo elemento"],
+    "correctIndex": 1,
+    "explanation": "Los isótopos comparten el mismo número de protones (y por tanto el mismo elemento) pero difieren en el número de neutrones, lo que cambia su masa atómica."
+  },
+  {
+    "id": "CHEMISTRY_M_004",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué diferencia a una reacción exotérmica de una endotérmica?",
+    "options": ["La exotérmica libera energía (calor) y la endotérmica la absorbe", "La exotérmica absorbe energía y la endotérmica la libera", "Ambas liberan la misma cantidad de energía", "Solo las reacciones endotérmicas producen luz"],
+    "correctIndex": 0,
+    "explanation": "En una reacción exotérmica se libera energía al entorno, normalmente en forma de calor, mientras que en una endotérmica se absorbe energía del entorno."
+  },
+  {
+    "id": "CHEMISTRY_M_005",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué son los 'electrones de valencia'?",
+    "options": ["Todos los electrones de un átomo", "Los electrones que se encuentran en el núcleo", "Los electrones de la capa más externa, responsables de los enlaces químicos", "Los electrones que han sido ionizados"],
+    "correctIndex": 2,
+    "explanation": "Los electrones de valencia ocupan la capa más externa del átomo y determinan su capacidad para formar enlaces químicos con otros átomos."
+  },
+  {
+    "id": "CHEMISTRY_M_006",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia principal entre un enlace covalente y un enlace iónico?",
+    "options": ["El covalente implica transferencia completa de electrones; el iónico los comparte", "El covalente implica compartir electrones; el iónico implica transferencia de electrones entre átomos con cargas opuestas", "Ambos tipos de enlace son idénticos en su naturaleza", "El enlace iónico solo ocurre entre metales"],
+    "correctIndex": 1,
+    "explanation": "En el enlace covalente los átomos comparten pares de electrones, mientras que en el enlace iónico un átomo cede electrones y otro los acepta, formando iones de carga opuesta que se atraen."
+  },
+  {
+    "id": "CHEMISTRY_M_007",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la función de un catalizador en una reacción química?",
+    "options": ["Aumentar la cantidad de producto final más allá del límite estequiométrico", "Acelerar la velocidad de la reacción sin consumirse en el proceso", "Cambiar los productos finales de la reacción", "Detener completamente la reacción"],
+    "correctIndex": 1,
+    "explanation": "Un catalizador reduce la energía de activación necesaria, acelerando la reacción, pero no se consume ni altera los productos finales."
+  },
+  {
+    "id": "CHEMISTRY_M_008",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué representa la unidad 'mol' en química?",
+    "options": ["Una unidad de masa equivalente a un gramo", "La cantidad de sustancia que contiene aproximadamente 6.022 × 10²³ partículas", "La unidad de volumen de un gas a temperatura ambiente", "Una medida exclusiva de la concentración de ácidos"],
+    "correctIndex": 1,
+    "explanation": "Un mol equivale al número de Avogadro (aproximadamente 6.022 × 10²³) de partículas, ya sean átomos, moléculas o iones."
+  },
+  {
+    "id": "CHEMISTRY_M_009",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En general, ¿cómo varía la electronegatividad al desplazarse de izquierda a derecha a lo largo de un período en la tabla periódica?",
+    "options": ["Disminuye progresivamente", "Aumenta progresivamente", "Permanece constante", "Varía de forma aleatoria sin ningún patrón"],
+    "correctIndex": 1,
+    "explanation": "Al avanzar de izquierda a derecha en un período, el núcleo atrae con más fuerza a los electrones de valencia, aumentando generalmente la electronegatividad."
+  },
+  {
+    "id": "CHEMISTRY_M_010",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En una reacción de óxido-reducción (redox), ¿qué le sucede a la sustancia que se 'oxida'?",
+    "options": ["Gana electrones", "Pierde electrones", "No participa en la transferencia de electrones", "Se convierte en un gas noble"],
+    "correctIndex": 1,
+    "explanation": "La oxidación consiste en la pérdida de electrones por parte de una sustancia, mientras que la reducción es la ganancia de electrones."
+  },
+  {
+    "id": "CHEMISTRY_M_011",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué efecto tiene generalmente el aumento de temperatura sobre la solubilidad de la mayoría de los sólidos en agua?",
+    "options": ["La disminuye siempre", "La aumenta generalmente", "No tiene ningún efecto", "Hace que el sólido se convierta en gas"],
+    "correctIndex": 1,
+    "explanation": "Para la mayoría de los solutos sólidos, un aumento de temperatura incrementa su solubilidad en agua, aunque existen excepciones."
+  },
+  {
+    "id": "CHEMISTRY_M_012",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué establece la ley de conservación de la masa en una reacción química?",
+    "options": ["La masa de los reactivos siempre es mayor que la de los productos", "La masa total de los reactivos es igual a la masa total de los productos", "La masa se puede crear libremente durante una reacción", "Solo aplica a reacciones en estado gaseoso"],
+    "correctIndex": 1,
+    "explanation": "La ley de conservación de la masa indica que la materia no se crea ni se destruye en una reacción química; la masa total se mantiene constante."
+  },
+  {
+    "id": "CHEMISTRY_M_013",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Por qué una sustancia con pH 4 es diez veces más ácida que una con pH 5?",
+    "options": ["Porque la escala de pH es lineal", "Porque la escala de pH es logarítmica en base 10", "Porque el pH mide directamente la temperatura", "Porque ambas sustancias tienen la misma concentración de iones hidrógeno"],
+    "correctIndex": 1,
+    "explanation": "La escala de pH es logarítmica en base 10; cada unidad representa un cambio de diez veces en la concentración de iones hidrógeno (H+)."
+  },
+  {
+    "id": "CHEMISTRY_M_014",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Por qué los metales alcalinos (grupo 1) son altamente reactivos?",
+    "options": ["Porque tienen la capa de valencia completa", "Porque tienen un solo electrón de valencia que pierden fácilmente para formar iones estables", "Porque son los elementos más pesados de la tabla periódica", "Porque no forman compuestos con otros elementos"],
+    "correctIndex": 1,
+    "explanation": "Los metales alcalinos tienen un único electrón en su capa de valencia, el cual pierden fácilmente para alcanzar una configuración electrónica estable, lo que los hace muy reactivos."
+  },
+  {
+    "id": "CHEMISTRY_M_015",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Por qué se considera que la molécula de agua (H2O) es polar?",
+    "options": ["Porque está formada por dos elementos diferentes", "Porque su forma angular y la diferencia de electronegatividad entre H y O generan una distribución desigual de carga", "Porque siempre está en estado líquido", "Porque no puede formar enlaces de hidrógeno"],
+    "correctIndex": 1,
+    "explanation": "La geometría angular del agua y la mayor electronegatividad del oxígeno respecto al hidrógeno generan un desequilibrio de carga, dando lugar a una molécula polar."
+  },
+  {
+    "id": "CHEMISTRY_M_016",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En una reacción química, ¿qué se entiende por 'reactivo limitante'?",
+    "options": ["El reactivo que se encuentra en mayor cantidad", "El reactivo que se consume por completo primero y determina la cantidad máxima de producto formado", "Un reactivo que no participa en la reacción", "El producto final de la reacción"],
+    "correctIndex": 1,
+    "explanation": "El reactivo limitante es aquel que se agota primero durante la reacción, limitando la cantidad de producto que puede formarse."
+  },
+  {
+    "id": "CHEMISTRY_M_017",
+    "category": "CHEMISTRY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "El diamante y el grafito son dos formas diferentes del mismo elemento, carbono, con propiedades muy distintas. ¿Cómo se denomina este fenómeno?",
+    "options": ["Isomería", "Alotropía", "Isotopía", "Polimerización"],
+    "correctIndex": 1,
+    "explanation": "La alotropía es la propiedad de un elemento de existir en dos o más formas estructurales diferentes en el mismo estado físico, como el diamante y el grafito en el carbono."
+  },
+  {
+    "id": "CHEMISTRY_H_001",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué predice el principio de Le Chatelier cuando se perturba un sistema en equilibrio químico?",
+    "options": ["El sistema permanece sin cambios ante cualquier perturbación", "El equilibrio se desplaza en la dirección que contrarresta la perturbación aplicada", "La reacción se detiene por completo", "Solo la temperatura puede afectar el equilibrio"],
+    "correctIndex": 1,
+    "explanation": "El principio de Le Chatelier establece que, ante un cambio en las condiciones (concentración, presión, temperatura), el equilibrio se desplaza para contrarrestar parcialmente dicho cambio."
+  },
+  {
+    "id": "CHEMISTRY_H_002",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué tipo de hibridación presentan los orbitales del átomo de carbono en una molécula de metano (CH4)?",
+    "options": ["sp", "sp2", "sp3", "sp3d"],
+    "correctIndex": 2,
+    "explanation": "En el metano, el carbono forma cuatro enlaces simples equivalentes mediante hibridación sp3, con geometría tetraédrica."
+  },
+  {
+    "id": "CHEMISTRY_H_003",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué caracteriza a una solución 'amortiguadora' o 'buffer' en química?",
+    "options": ["Cambia drásticamente de pH ante pequeñas adiciones de ácido o base", "Resiste cambios significativos de pH al añadir pequeñas cantidades de ácido o base", "Solo puede existir en estado sólido", "No contiene ni ácidos ni bases"],
+    "correctIndex": 1,
+    "explanation": "Una solución buffer contiene un ácido débil y su base conjugada (o viceversa), lo que le permite neutralizar pequeñas adiciones de ácido o base sin alterar mucho el pH."
+  },
+  {
+    "id": "CHEMISTRY_H_004",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Según la termodinámica química, ¿qué condición indica que una reacción es espontánea a temperatura y presión constantes?",
+    "options": ["Que la entalpía (ΔH) sea positiva", "Que la energía libre de Gibbs (ΔG) sea negativa", "Que la entropía (ΔS) sea siempre cero", "Que la reacción libere luz visible"],
+    "correctIndex": 1,
+    "explanation": "Una reacción es espontánea cuando su cambio de energía libre de Gibbs (ΔG = ΔH − TΔS) es negativo bajo las condiciones dadas."
+  },
+  {
+    "id": "CHEMISTRY_H_005",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué establece el principio de exclusión de Pauli respecto a los electrones en un átomo?",
+    "options": ["Dos electrones no pueden tener los cuatro números cuánticos idénticos", "Todos los electrones de un átomo deben tener la misma energía", "Los electrones solo pueden existir en el núcleo", "Un átomo solo puede tener un electrón en total"],
+    "correctIndex": 0,
+    "explanation": "El principio de exclusión de Pauli indica que en un mismo átomo no puede haber dos electrones con el mismo conjunto de los cuatro números cuánticos."
+  },
+  {
+    "id": "CHEMISTRY_H_006",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Si la velocidad de una reacción depende del cuadrado de la concentración de un reactivo A (v = k[A]²), ¿cómo se clasifica esta reacción respecto a A?",
+    "options": ["Orden cero respecto a A", "Primer orden respecto a A", "Segundo orden respecto a A", "Orden infinito respecto a A"],
+    "correctIndex": 2,
+    "explanation": "El orden de reacción respecto a un reactivo corresponde al exponente al que está elevada su concentración en la ley de velocidad; en este caso, el exponente 2 indica segundo orden."
+  },
+  {
+    "id": "CHEMISTRY_H_007",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué predice la teoría de repulsión de los pares de electrones de valencia (TRPEV o VSEPR)?",
+    "options": ["La masa molecular de un compuesto", "La geometría molecular, basada en la repulsión entre pares de electrones alrededor del átomo central", "La solubilidad de un compuesto en agua", "La velocidad de una reacción química"],
+    "correctIndex": 1,
+    "explanation": "La teoría VSEPR predice la forma geométrica de una molécula considerando que los pares de electrones alrededor del átomo central se repelen y se acomodan lo más alejados posible entre sí."
+  },
+  {
+    "id": "CHEMISTRY_H_008",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Según la segunda ley de la termodinámica, ¿qué tiende a ocurrir con la entropía total de un sistema aislado con el tiempo?",
+    "options": ["Tiende a disminuir espontáneamente", "Tiende a mantenerse siempre constante", "Tiende a aumentar o, en el mejor caso, permanecer igual", "Se vuelve negativa en reacciones exotérmicas"],
+    "correctIndex": 2,
+    "explanation": "La segunda ley de la termodinámica establece que la entropía total de un sistema aislado nunca disminuye espontáneamente; tiende a aumentar con el tiempo."
+  },
+  {
+    "id": "CHEMISTRY_H_009",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué significa que una sustancia sea 'anfótera' en química?",
+    "options": ["Que no reacciona con ácidos ni con bases", "Que puede comportarse como ácido o como base según la sustancia con la que reaccione", "Que solo existe en estado gaseoso", "Que siempre tiene carga eléctrica negativa"],
+    "correctIndex": 1,
+    "explanation": "Una sustancia anfótera, como el agua o el hidróxido de aluminio, puede actuar como ácido frente a una base, o como base frente a un ácido."
+  },
+  {
+    "id": "CHEMISTRY_H_010",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En química orgánica, ¿qué predice la regla de Markovnikov en la adición de un ácido como HX a un alqueno asimétrico?",
+    "options": ["El hidrógeno se adiciona al carbono con menos sustituyentes de hidrógeno", "El hidrógeno se adiciona preferentemente al carbono que ya tiene más átomos de hidrógeno", "El halógeno siempre se adiciona al carbono terminal", "La reacción no depende de la estructura del alqueno"],
+    "correctIndex": 1,
+    "explanation": "La regla de Markovnikov establece que, en la adición de HX a un alqueno asimétrico, el hidrógeno se une preferentemente al carbono que ya posee más átomos de hidrógeno, formando el carbocatión más estable."
+  },
+  {
+    "id": "CHEMISTRY_H_011",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es el estado de oxidación del azufre en el ion sulfato (SO4²⁻)?",
+    "options": ["+2", "+4", "+6", "-2"],
+    "correctIndex": 2,
+    "explanation": "Dado que cada oxígeno tiene estado de oxidación -2 (total -8) y la carga del ion es -2, el azufre debe tener estado de oxidación +6 para que la suma sea -2."
+  },
+  {
+    "id": "CHEMISTRY_H_012",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes es una 'propiedad coligativa' de una disolución?",
+    "options": ["El color de la disolución", "La densidad del soluto puro", "El descenso del punto de congelación respecto al disolvente puro", "La conductividad eléctrica del disolvente puro"],
+    "correctIndex": 2,
+    "explanation": "Las propiedades coligativas, como el descenso crioscópico, dependen de la cantidad de partículas de soluto disueltas, no de su identidad química."
+  },
+  {
+    "id": "CHEMISTRY_H_013",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué describen las 'estructuras de resonancia' en una molécula como el ozono (O3) o el benceno?",
+    "options": ["Diferentes compuestos que coexisten en equilibrio químico", "Distintas formas de representar la deslocalización de electrones que no pueden describirse con una sola estructura de Lewis", "Isótopos del mismo elemento", "Reacciones secundarias no deseadas"],
+    "correctIndex": 1,
+    "explanation": "Las estructuras de resonancia son representaciones de Lewis alternativas que, combinadas, describen mejor la deslocalización real de los electrones en la molécula, que no corresponde a ninguna estructura individual."
+  },
+  {
+    "id": "CHEMISTRY_H_014",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Si la constante de equilibrio Kc de una reacción es mucho mayor que 1, ¿qué indica esto sobre la posición del equilibrio?",
+    "options": ["El equilibrio favorece fuertemente a los reactivos", "El equilibrio favorece fuertemente a los productos", "La reacción no alcanza nunca el equilibrio", "La reacción es necesariamente muy lenta"],
+    "correctIndex": 1,
+    "explanation": "Un valor de Kc mucho mayor que 1 indica que, en el equilibrio, la concentración de productos es considerablemente mayor que la de reactivos."
+  },
+  {
+    "id": "CHEMISTRY_H_015",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "Según la regla de Hückel, ¿cuántos electrones π deslocalizados debe tener un anillo plano y conjugado para ser considerado aromático?",
+    "options": ["4n electrones", "4n + 2 electrones (con n entero no negativo)", "Exactamente 6 electrones en todos los casos sin excepción", "Un número impar de electrones"],
+    "correctIndex": 1,
+    "explanation": "La regla de Hückel establece que un sistema cíclico, plano y completamente conjugado es aromático si posee 4n + 2 electrones π deslocalizados, siendo n un entero no negativo (el benceno, con 6 electrones π, cumple esta regla con n=1)."
+  },
+  {
+    "id": "CHEMISTRY_H_016",
+    "category": "CHEMISTRY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué efecto tiene un catalizador sobre la energía de activación de una reacción química?",
+    "options": ["La aumenta, haciendo la reacción más lenta pero más completa", "La disminuye, proporcionando una vía alternativa con menor barrera energética", "No tiene ningún efecto sobre la energía de activación", "Elimina por completo la necesidad de energía de activación"],
+    "correctIndex": 1,
+    "explanation": "Un catalizador ofrece un mecanismo de reacción alternativo con menor energía de activación, lo que acelera la reacción sin alterar la variación de energía global."
+  }
+]

@@ -1,0 +1,19 @@
+# Portable build tools used only on this machine; never commit these (huge, host-specific)
+.tools/
+
+# Android Studio / Gradle
+app-project/local.properties
+app-project/.gradle/
+app-project/.idea/
+app-project/*/build/
+app-project/app/build/
+app-project/.kotlin/
+app-project/captures/
+app-project/.externalNativeBuild/
+app-project/.cxx/
+*.iml
+local.properties
+
+# OS / editor noise
+.DS_Store
+Thumbs.db

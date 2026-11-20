@@ -1,0 +1,502 @@
+[
+  {
+    "id": "TECHNOLOGY_E_001",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué significa la sigla CPU en informática?",
+    "options": ["Central Process Unit", "Unidad Central de Procesamiento (Central Processing Unit)", "Computer Power Unit", "Central Printing Utility"],
+    "correctIndex": 1,
+    "explanation": "CPU corresponde a 'Central Processing Unit', el componente encargado de ejecutar las instrucciones y procesar los datos de una computadora."
+  },
+  {
+    "id": "TECHNOLOGY_E_002",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué función principal cumple la memoria RAM en una computadora?",
+    "options": ["Almacenar permanentemente todos los archivos del usuario", "Almacenar temporalmente los datos y programas que están en uso mientras el equipo está encendido", "Enfriar el procesador", "Conectar la computadora a internet"],
+    "correctIndex": 1,
+    "explanation": "La memoria RAM almacena temporalmente los datos y programas en ejecución, permitiendo un acceso rápido mientras el equipo está encendido; su contenido se pierde al apagar el dispositivo."
+  },
+  {
+    "id": "TECHNOLOGY_E_003",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué significa la sigla 'WWW' que suele aparecer al inicio de muchas direcciones web?",
+    "options": ["World Wide Web", "World Web Wide", "Web World Wide", "Wide World Web"],
+    "correctIndex": 0,
+    "explanation": "WWW significa 'World Wide Web' (red informática mundial), el sistema de documentos interconectados que se accede a través de internet."
+  },
+  {
+    "id": "TECHNOLOGY_E_004",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cómo se define de forma básica la 'inteligencia artificial' (IA)?",
+    "options": ["Un tipo de hardware exclusivo para videojuegos", "La capacidad de sistemas computacionales para realizar tareas que normalmente requieren inteligencia humana", "Un virus informático avanzado", "Una red social especializada"],
+    "correctIndex": 1,
+    "explanation": "La inteligencia artificial se refiere al desarrollo de sistemas capaces de realizar tareas asociadas a la inteligencia humana, como reconocer patrones, aprender o tomar decisiones."
+  },
+  {
+    "id": "TECHNOLOGY_E_005",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es la función principal de un router (enrutador) en una red doméstica?",
+    "options": ["Almacenar archivos de respaldo", "Dirigir el tráfico de datos entre dispositivos y conectar la red local a internet", "Generar energía eléctrica para los dispositivos", "Proteger físicamente los equipos del polvo"],
+    "correctIndex": 1,
+    "explanation": "Un router dirige el tráfico de datos entre los dispositivos de una red local y gestiona la conexión hacia internet."
+  },
+  {
+    "id": "TECHNOLOGY_E_006",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es un 'malware'?",
+    "options": ["Un tipo de hardware de última generación", "Un software diseñado para dañar, infiltrarse o alterar el funcionamiento de un sistema sin consentimiento del usuario", "Una aplicación oficial de actualización del sistema", "Un componente físico de la placa madre"],
+    "correctIndex": 1,
+    "explanation": "El malware es software malicioso creado con el objetivo de dañar, robar información o afectar el funcionamiento normal de un dispositivo sin el consentimiento del usuario."
+  },
+  {
+    "id": "TECHNOLOGY_E_007",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En tecnología, ¿qué se entiende comúnmente por 'la nube' (cloud)?",
+    "options": ["Un componente físico dentro de la computadora", "Servidores remotos accesibles a través de internet que almacenan y procesan datos", "Un tipo de virus informático", "Una red exclusivamente local sin conexión a internet"],
+    "correctIndex": 1,
+    "explanation": "La 'nube' se refiere a servidores remotos, accesibles mediante internet, que permiten almacenar y procesar datos sin depender del hardware local del usuario."
+  },
+  {
+    "id": "TECHNOLOGY_E_008",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuántos bits conforman normalmente un byte?",
+    "options": ["4 bits", "8 bits", "16 bits", "2 bits"],
+    "correctIndex": 1,
+    "explanation": "Un byte está compuesto por 8 bits, siendo la unidad básica de almacenamiento de información en la mayoría de los sistemas informáticos."
+  },
+  {
+    "id": "TECHNOLOGY_E_009",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué permite la tecnología Wi-Fi?",
+    "options": ["Conectar dispositivos a internet mediante cables de fibra óptica obligatoriamente", "Conectar dispositivos a una red de forma inalámbrica utilizando ondas de radio", "Aumentar la velocidad del procesador de una computadora", "Proteger los dispositivos contra virus informáticos"],
+    "correctIndex": 1,
+    "explanation": "Wi-Fi es una tecnología que permite la conexión inalámbrica de dispositivos a una red local o a internet mediante ondas de radiofrecuencia."
+  },
+  {
+    "id": "TECHNOLOGY_E_010",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es un 'software'?",
+    "options": ["Un componente físico de la computadora, como el teclado o el monitor", "El conjunto de programas e instrucciones que permiten que una computadora realice tareas", "Un tipo de cable de conexión", "Un dispositivo de almacenamiento externo"],
+    "correctIndex": 1,
+    "explanation": "El software es el conjunto de programas, aplicaciones y datos que indican a una computadora cómo realizar sus tareas, en contraste con el hardware, que son sus componentes físicos."
+  },
+  {
+    "id": "TECHNOLOGY_E_011",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el propósito principal de una contraseña segura?",
+    "options": ["Hacer que el dispositivo funcione más rápido", "Proteger el acceso a una cuenta o sistema, evitando el ingreso de personas no autorizadas", "Aumentar el espacio de almacenamiento disponible", "Mejorar la calidad de la conexión a internet"],
+    "correctIndex": 1,
+    "explanation": "Una contraseña segura busca restringir el acceso a una cuenta o sistema únicamente a las personas autorizadas, dificultando el acceso de terceros."
+  },
+  {
+    "id": "TECHNOLOGY_E_012",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Para qué se utiliza principalmente la tecnología GPS?",
+    "options": ["Para aumentar la velocidad de procesamiento de un dispositivo", "Para determinar la ubicación geográfica de un dispositivo mediante señales satelitales", "Para almacenar grandes cantidades de datos", "Para proteger un dispositivo contra virus informáticos"],
+    "correctIndex": 1,
+    "explanation": "El GPS (Sistema de Posicionamiento Global) utiliza señales de satélites para determinar con precisión la ubicación geográfica de un receptor."
+  },
+  {
+    "id": "TECHNOLOGY_E_013",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes opciones es un ejemplo de 'hardware'?",
+    "options": ["Un sistema operativo", "Una aplicación de mensajería", "El disco duro de una computadora", "Un archivo de texto"],
+    "correctIndex": 2,
+    "explanation": "El hardware se refiere a los componentes físicos y tangibles de un sistema, como el disco duro, a diferencia del software, que son programas e instrucciones."
+  },
+  {
+    "id": "TECHNOLOGY_E_014",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué función cumple un 'firewall' (cortafuegos) en informática?",
+    "options": ["Aumentar la velocidad de descarga de archivos", "Monitorear y controlar el tráfico de red para bloquear accesos no autorizados", "Almacenar copias de seguridad automáticas", "Mejorar la resolución de la pantalla"],
+    "correctIndex": 1,
+    "explanation": "Un firewall supervisa el tráfico de red entrante y saliente, bloqueando conexiones no autorizadas según reglas de seguridad predefinidas."
+  },
+  {
+    "id": "TECHNOLOGY_E_015",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En el contexto de la inteligencia artificial, ¿qué es el 'aprendizaje automático' (machine learning)?",
+    "options": ["Un método para enseñar manualmente cada regla posible a una computadora", "Un enfoque en el que los sistemas aprenden patrones a partir de datos para mejorar su desempeño sin ser programados explícitamente para cada tarea", "Un tipo de hardware especializado en videojuegos", "Un protocolo de seguridad para redes inalámbricas"],
+    "correctIndex": 1,
+    "explanation": "El aprendizaje automático permite que los sistemas identifiquen patrones en los datos y mejoren su desempeño en una tarea sin necesidad de programar explícitamente cada regla."
+  },
+  {
+    "id": "TECHNOLOGY_E_016",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Para qué se utiliza comúnmente un puerto o cable USB?",
+    "options": ["Para conectar dispositivos periféricos y transferir datos o energía entre ellos", "Para medir la temperatura del procesador", "Para transmitir señales de televisión exclusivamente", "Para aumentar la memoria RAM de forma permanente"],
+    "correctIndex": 0,
+    "explanation": "El USB (Universal Serial Bus) es un estándar utilizado para conectar periféricos y transferir datos o energía entre dispositivos."
+  },
+  {
+    "id": "TECHNOLOGY_E_017",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué es un 'chatbot'?",
+    "options": ["Un virus informático que se propaga por correo electrónico", "Un programa diseñado para simular una conversación con usuarios humanos, a menudo usando inteligencia artificial", "Un componente físico del teclado", "Un tipo de cable de red"],
+    "correctIndex": 1,
+    "explanation": "Un chatbot es un programa de software diseñado para interactuar con usuarios mediante conversación, simulando respuestas humanas, frecuentemente apoyado en inteligencia artificial."
+  },
+  {
+    "id": "TECHNOLOGY_M_001",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia fundamental entre la memoria RAM y el almacenamiento en un disco SSD o HDD?",
+    "options": ["No hay ninguna diferencia, ambos cumplen exactamente la misma función", "La RAM es volátil y almacena datos temporalmente mientras el equipo está encendido, mientras que el almacenamiento (SSD/HDD) conserva los datos de forma permanente incluso sin energía", "El SSD siempre es más lento que la RAM en todos los casos de uso", "La RAM solo se usa para almacenar fotos y videos"],
+    "correctIndex": 1,
+    "explanation": "La RAM es memoria volátil que pierde su contenido al apagar el equipo, mientras que el almacenamiento en SSD o HDD conserva los datos de manera persistente."
+  },
+  {
+    "id": "TECHNOLOGY_M_002",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál fue una de las principales razones para desarrollar el protocolo IPv6 en reemplazo gradual de IPv4?",
+    "options": ["IPv4 no permitía conectar impresoras a la red", "El espacio de direcciones de IPv4 es limitado y se estaba agotando ante el crecimiento masivo de dispositivos conectados", "IPv6 funciona exclusivamente con redes inalámbricas", "IPv4 nunca tuvo direcciones suficientes desde su creación"],
+    "correctIndex": 1,
+    "explanation": "IPv4 ofrece un número limitado de direcciones (aproximadamente 4.300 millones), que resultó insuficiente frente al crecimiento de dispositivos conectados a internet; IPv6 amplía enormemente este espacio de direcciones."
+  },
+  {
+    "id": "TECHNOLOGY_M_003",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia principal entre el 'aprendizaje supervisado' y el 'aprendizaje no supervisado' en machine learning?",
+    "options": ["El supervisado no utiliza ningún dato de entrenamiento", "El supervisado entrena el modelo con datos etiquetados (con respuestas conocidas), mientras que el no supervisado busca patrones en datos sin etiquetar", "Ambos métodos requieren exactamente los mismos datos etiquetados", "El no supervisado siempre es más preciso que el supervisado"],
+    "correctIndex": 1,
+    "explanation": "En el aprendizaje supervisado, el modelo aprende a partir de ejemplos con respuestas correctas conocidas (etiquetas), mientras que en el no supervisado el modelo identifica patrones o agrupaciones en datos que no tienen etiquetas predefinidas."
+  },
+  {
+    "id": "TECHNOLOGY_M_004",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué indica que un sitio web utilice el protocolo HTTPS en lugar de HTTP?",
+    "options": ["Que el sitio web es necesariamente gratuito", "Que la comunicación entre el navegador y el servidor está cifrada, protegiendo la información transmitida", "Que el sitio no requiere conexión a internet", "Que el sitio solo puede visitarse desde dispositivos móviles"],
+    "correctIndex": 1,
+    "explanation": "HTTPS añade una capa de cifrado (TLS/SSL) a la comunicación HTTP, protegiendo los datos transmitidos entre el navegador y el servidor contra interceptación."
+  },
+  {
+    "id": "TECHNOLOGY_M_005",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es el propósito de la memoria 'caché' en un procesador?",
+    "options": ["Almacenar permanentemente archivos del usuario", "Proveer un acceso extremadamente rápido a datos e instrucciones usados frecuentemente, reduciendo el tiempo de espera del procesador", "Aumentar la resolución de la pantalla", "Conectar el dispositivo a redes inalámbricas"],
+    "correctIndex": 1,
+    "explanation": "La memoria caché es una memoria muy rápida, más cercana al procesador, que almacena datos e instrucciones de uso frecuente para reducir los tiempos de acceso comparado con la RAM principal."
+  },
+  {
+    "id": "TECHNOLOGY_M_006",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué función cumple el sistema DNS (Domain Name System) en internet?",
+    "options": ["Cifra toda la información que se transmite por la red", "Traduce nombres de dominio legibles por humanos (como ejemplo.com) en direcciones IP numéricas que las computadoras usan para comunicarse", "Aumenta la velocidad de la conexión a internet", "Bloquea automáticamente los sitios web maliciosos"],
+    "correctIndex": 1,
+    "explanation": "El DNS actúa como una especie de 'guía telefónica' de internet, traduciendo nombres de dominio fáciles de recordar en las direcciones IP numéricas que realmente usan los equipos para comunicarse."
+  },
+  {
+    "id": "TECHNOLOGY_M_007",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué caracteriza al 'software de código abierto' (open source)?",
+    "options": ["Su código fuente nunca puede ser modificado por nadie", "Su código fuente está disponible públicamente y puede ser estudiado, modificado y redistribuido según su licencia", "Siempre es de pago y requiere licencia comercial", "Solo puede ejecutarse en un tipo específico de hardware"],
+    "correctIndex": 1,
+    "explanation": "El software de código abierto pone su código fuente a disposición del público, permitiendo que otros lo examinen, modifiquen y, según la licencia, lo redistribuyan."
+  },
+  {
+    "id": "TECHNOLOGY_M_008",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En inteligencia artificial, ¿qué es una 'red neuronal artificial' de forma básica?",
+    "options": ["Un tipo de cable de red física para conectar computadoras", "Un modelo computacional inspirado en el funcionamiento de las neuronas biológicas, compuesto por capas de nodos interconectados que procesan información", "Un protocolo de seguridad para proteger contraseñas", "Un sistema exclusivo para almacenar archivos de video"],
+    "correctIndex": 1,
+    "explanation": "Una red neuronal artificial es un modelo computacional compuesto por capas de nodos (inspirados vagamente en neuronas biológicas) que procesan y transmiten información para aprender patrones a partir de datos."
+  },
+  {
+    "id": "TECHNOLOGY_M_009",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué permite la 'virtualización' en informática?",
+    "options": ["Ejecutar múltiples sistemas operativos o entornos aislados sobre el mismo hardware físico", "Aumentar físicamente la cantidad de memoria RAM instalada", "Eliminar la necesidad de usar electricidad en los servidores", "Conectar dispositivos únicamente mediante cables físicos"],
+    "correctIndex": 0,
+    "explanation": "La virtualización permite crear máquinas virtuales que ejecutan sistemas operativos o aplicaciones de forma aislada, compartiendo los recursos de un mismo hardware físico."
+  },
+  {
+    "id": "TECHNOLOGY_M_010",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿En qué consiste la autenticación de dos factores (2FA)?",
+    "options": ["Usar dos contraseñas iguales para mayor seguridad", "Verificar la identidad del usuario mediante dos métodos distintos, como una contraseña y un código enviado al teléfono", "Permitir el acceso sin ninguna verificación si el usuario lo solicita", "Cambiar la contraseña automáticamente cada dos días"],
+    "correctIndex": 1,
+    "explanation": "La autenticación de dos factores combina dos métodos independientes de verificación (por ejemplo, algo que sabes, como una contraseña, y algo que tienes, como un código temporal), aumentando la seguridad del acceso."
+  },
+  {
+    "id": "TECHNOLOGY_M_011",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia entre 'ancho de banda' (bandwidth) y 'latencia' (latency) en una red?",
+    "options": ["Son términos equivalentes que describen exactamente lo mismo", "El ancho de banda mide la cantidad de datos que pueden transmitirse por unidad de tiempo, mientras que la latencia mide el retraso o tiempo que tarda un dato en viajar", "La latencia mide la cantidad de datos transmitidos y el ancho de banda mide el retraso", "Ambos términos se refieren exclusivamente a la velocidad del procesador"],
+    "correctIndex": 1,
+    "explanation": "El ancho de banda indica cuántos datos pueden transmitirse en un período de tiempo (capacidad), mientras que la latencia se refiere al tiempo que tarda un paquete de datos en viajar de un punto a otro (retraso)."
+  },
+  {
+    "id": "TECHNOLOGY_M_012",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué es una API (Interfaz de Programación de Aplicaciones) de forma básica?",
+    "options": ["Un tipo de virus informático avanzado", "Un conjunto de reglas y protocolos que permite que diferentes programas o sistemas se comuniquen entre sí", "Un componente físico dentro del procesador", "Un cable utilizado para conectar monitores externos"],
+    "correctIndex": 1,
+    "explanation": "Una API define un conjunto de reglas y métodos que permiten que distintas aplicaciones o sistemas de software intercambien información y funcionalidades entre sí."
+  },
+  {
+    "id": "TECHNOLOGY_M_013",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué tipo de autenticación utiliza huellas digitales o reconocimiento facial?",
+    "options": ["Autenticación basada en contraseñas tradicionales", "Autenticación biométrica, basada en características físicas o de comportamiento únicas de la persona", "Autenticación basada exclusivamente en tarjetas físicas", "Autenticación basada en direcciones IP"],
+    "correctIndex": 1,
+    "explanation": "La autenticación biométrica utiliza características físicas o de comportamiento únicas de una persona, como huellas digitales o rasgos faciales, para verificar su identidad."
+  },
+  {
+    "id": "TECHNOLOGY_M_014",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué describe el concepto de 'Internet de las Cosas' (IoT, Internet of Things)?",
+    "options": ["Una red exclusiva para conectar computadoras de escritorio entre sí", "La interconexión de objetos cotidianos (electrodomésticos, sensores, vehículos, etc.) a internet, permitiéndoles recopilar y compartir datos", "Un tipo de virus que ataca exclusivamente routers", "Un protocolo de seguridad para proteger contraseñas bancarias"],
+    "correctIndex": 1,
+    "explanation": "El Internet de las Cosas se refiere a la conexión de dispositivos cotidianos, más allá de las computadoras tradicionales, a internet, permitiéndoles recopilar, enviar y recibir datos."
+  },
+  {
+    "id": "TECHNOLOGY_M_015",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué es el 'phishing' en seguridad informática?",
+    "options": ["Un método legítimo para recuperar contraseñas olvidadas", "Una técnica de engaño que intenta hacer que una persona revele información sensible, como contraseñas, haciéndose pasar por una entidad confiable", "Un tipo de hardware diseñado para proteger redes", "Un protocolo de transferencia de archivos seguro"],
+    "correctIndex": 1,
+    "explanation": "El phishing es una técnica de ingeniería social en la que un atacante se hace pasar por una entidad confiable (banco, empresa, etc.) para engañar a la víctima y obtener información sensible."
+  },
+  {
+    "id": "TECHNOLOGY_M_016",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué observación describe tradicionalmente la 'Ley de Moore' en la industria de los semiconductores?",
+    "options": ["El precio de las computadoras siempre se mantiene exactamente igual", "El número de transistores en un circuito integrado tiende a duplicarse aproximadamente cada dos años", "El consumo de energía de los procesadores se duplica cada año sin excepción", "La cantidad de usuarios de internet se duplica cada mes"],
+    "correctIndex": 1,
+    "explanation": "La Ley de Moore, formulada por Gordon Moore, observó que la cantidad de transistores que pueden colocarse en un circuito integrado tiende a duplicarse aproximadamente cada dos años, impulsando el aumento de la capacidad de procesamiento."
+  },
+  {
+    "id": "TECHNOLOGY_M_017",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué característica fundamental define a la tecnología 'blockchain' (cadena de bloques)?",
+    "options": ["Almacena toda la información en un único servidor centralizado controlado por una empresa", "Es un registro distribuido e inmutable de transacciones, mantenido y verificado por múltiples participantes de una red", "Solo puede utilizarse para crear criptomonedas", "Requiere que un solo administrador apruebe cada transacción"],
+    "correctIndex": 1,
+    "explanation": "Blockchain es un registro distribuido entre múltiples nodos de una red, donde cada bloque de transacciones se enlaza criptográficamente al anterior, dificultando su alteración sin el consenso de la red."
+  },
+  {
+    "id": "TECHNOLOGY_H_001",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cómo se relacionan jerárquicamente los conceptos de inteligencia artificial, aprendizaje automático (machine learning) y aprendizaje profundo (deep learning)?",
+    "options": ["Son sinónimos exactos y completamente intercambiables", "El aprendizaje profundo es un subconjunto del aprendizaje automático, que a su vez es un subconjunto de la inteligencia artificial", "La inteligencia artificial es un subconjunto del aprendizaje profundo", "El aprendizaje automático no tiene relación alguna con la inteligencia artificial"],
+    "correctIndex": 1,
+    "explanation": "La inteligencia artificial es el campo más amplio; el aprendizaje automático es un enfoque dentro de la IA que aprende de datos; y el aprendizaje profundo es un subconjunto del aprendizaje automático que utiliza redes neuronales con múltiples capas."
+  },
+  {
+    "id": "TECHNOLOGY_H_002",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En machine learning, ¿qué describe el fenómeno de 'sobreajuste' (overfitting)?",
+    "options": ["Cuando un modelo es demasiado simple y no logra capturar los patrones de los datos", "Cuando un modelo aprende tan específicamente los datos de entrenamiento, incluido su ruido, que pierde capacidad de generalizar a datos nuevos", "Cuando un modelo utiliza demasiados pocos datos de entrenamiento siempre", "Cuando un modelo se entrena más rápido de lo esperado"],
+    "correctIndex": 1,
+    "explanation": "El sobreajuste ocurre cuando un modelo se ajusta demasiado a las particularidades (incluido el ruido) de los datos de entrenamiento, lo que deteriora su capacidad de generalizar correctamente ante datos nuevos."
+  },
+  {
+    "id": "TECHNOLOGY_H_003",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cómo funciona básicamente la criptografía de clave pública (asimétrica), usada por ejemplo en HTTPS?",
+    "options": ["Usa una única clave secreta que deben compartir ambas partes antes de comunicarse", "Utiliza un par de claves matemáticamente relacionadas: una pública para cifrar y una privada para descifrar, sin necesidad de compartir la clave secreta previamente", "No requiere ningún tipo de clave para funcionar", "Cifra los datos usando únicamente el nombre de usuario como clave"],
+    "correctIndex": 1,
+    "explanation": "La criptografía asimétrica utiliza un par de claves matemáticamente vinculadas: la clave pública puede compartirse libremente para cifrar datos, mientras que solo la clave privada correspondiente puede descifrarlos."
+  },
+  {
+    "id": "TECHNOLOGY_H_004",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué propiedad cuántica permite que un 'qubit', a diferencia de un bit clásico, pueda representar información de forma fundamentalmente distinta?",
+    "options": ["Los qubits solo pueden almacenar el valor 0, nunca el valor 1", "La superposición, que permite que un qubit exista en una combinación de los estados 0 y 1 simultáneamente hasta que se mide", "Los qubits funcionan exactamente igual que los bits clásicos sin ninguna diferencia", "Los qubits requieren obligatoriamente electricidad alterna para funcionar"],
+    "correctIndex": 1,
+    "explanation": "Gracias a la superposición cuántica, un qubit puede existir en una combinación de los estados 0 y 1 al mismo tiempo, a diferencia de un bit clásico que solo puede tener uno de esos dos valores en un momento dado."
+  },
+  {
+    "id": "TECHNOLOGY_H_005",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué principio defiende el concepto de 'neutralidad de la red' (net neutrality)?",
+    "options": ["Que los proveedores de internet pueden cobrar tarifas distintas según el contenido que el usuario visite", "Que los proveedores de servicios de internet deben tratar todo el tráfico de datos de manera igualitaria, sin discriminar o priorizar contenido, aplicaciones o sitios específicos", "Que solo el gobierno puede acceder a internet sin restricciones", "Que la velocidad de internet debe ser gratuita para todos los usuarios sin excepción"],
+    "correctIndex": 1,
+    "explanation": "La neutralidad de la red sostiene que los proveedores de internet deben tratar todo el tráfico de datos de forma equitativa, sin bloquear, ralentizar o priorizar contenido según su origen, destino o tipo."
+  },
+  {
+    "id": "TECHNOLOGY_H_006",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el contexto de la seguridad de modelos de inteligencia artificial, ¿qué son los 'ejemplos adversarios' (adversarial examples)?",
+    "options": ["Datos de entrenamiento etiquetados incorrectamente por error humano", "Entradas deliberadamente modificadas, a menudo de forma casi imperceptible, diseñadas para engañar a un modelo y provocar que produzca una salida incorrecta", "Modelos de IA que compiten entre sí en videojuegos", "Un tipo de hardware diseñado específicamente para entrenar redes neuronales"],
+    "correctIndex": 1,
+    "explanation": "Los ejemplos adversarios son entradas cuidadosamente alteradas, muchas veces con cambios imperceptibles para un humano, diseñadas para hacer que un modelo de IA cometa errores de clasificación o predicción."
+  },
+  {
+    "id": "TECHNOLOGY_H_007",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué ventaja principal ofrece la 'computación en el borde' (edge computing) frente al procesamiento centralizado en la nube?",
+    "options": ["Elimina por completo la necesidad de cualquier conexión a internet", "Procesa los datos más cerca de donde se generan, reduciendo la latencia y el volumen de datos que deben enviarse a servidores remotos", "Siempre es más costosa y lenta que depender exclusivamente de servidores centralizados", "Solo puede utilizarse en teléfonos móviles"],
+    "correctIndex": 1,
+    "explanation": "El edge computing procesa los datos cerca de su origen (por ejemplo, en el propio dispositivo o en servidores locales), reduciendo la latencia y la cantidad de datos que deben transmitirse a centros de datos remotos."
+  },
+  {
+    "id": "TECHNOLOGY_H_008",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué técnica de inteligencia artificial se utiliza comúnmente para generar 'deepfakes' (videos o audios sintéticos hiperrealistas)?",
+    "options": ["Hojas de cálculo automatizadas", "Redes generativas antagónicas (GAN) u otras técnicas de aprendizaje profundo generativo que aprenden a crear contenido sintético realista", "Bases de datos relacionales tradicionales", "Protocolos de red como TCP/IP"],
+    "correctIndex": 1,
+    "explanation": "Los deepfakes suelen generarse mediante técnicas de aprendizaje profundo generativo, como las redes generativas antagónicas (GAN), que aprenden a producir imágenes, audio o video sintéticos muy realistas."
+  },
+  {
+    "id": "TECHNOLOGY_H_009",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué se entiende por una vulnerabilidad de 'día cero' (zero-day) en ciberseguridad?",
+    "options": ["Una falla de seguridad que ya ha sido corregida hace años", "Una falla de seguridad desconocida para el fabricante o desarrollador del software, que puede ser explotada antes de que exista un parche disponible", "Un tipo de virus que solo afecta a sistemas con cero usuarios activos", "Una contraseña que se debe cambiar cada día"],
+    "correctIndex": 1,
+    "explanation": "Una vulnerabilidad de día cero es una falla de seguridad que los atacantes pueden explotar antes de que el desarrollador la conozca o publique una corrección (parche), lo que la hace especialmente peligrosa."
+  },
+  {
+    "id": "TECHNOLOGY_H_010",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En arquitectura de computadoras, ¿qué describe el 'cuello de botella de Von Neumann'?",
+    "options": ["La limitación de velocidad causada por el canal compartido entre la CPU y la memoria, que restringe la velocidad con la que se pueden transferir datos e instrucciones", "La imposibilidad de que una computadora tenga más de un núcleo de procesamiento", "Un error exclusivo de los sistemas operativos antiguos", "La falta de memoria RAM en dispositivos modernos"],
+    "correctIndex": 0,
+    "explanation": "El cuello de botella de Von Neumann se refiere a la limitación de rendimiento que surge porque la CPU y la memoria comparten un mismo canal de comunicación, restringiendo la velocidad de transferencia de datos e instrucciones entre ambas."
+  },
+  {
+    "id": "TECHNOLOGY_H_011",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué innovación clave introdujo la arquitectura 'Transformer' (base de muchos modelos modernos de procesamiento de lenguaje natural) respecto a arquitecturas anteriores como las redes recurrentes?",
+    "options": ["Eliminó por completo la necesidad de usar datos de entrenamiento", "Introdujo el mecanismo de 'atención', que permite procesar y relacionar todas las partes de una secuencia en paralelo, en lugar de procesarla estrictamente en orden secuencial", "Solo puede procesar un carácter de texto a la vez", "Reemplazó por completo la necesidad de usar procesadores gráficos (GPU)"],
+    "correctIndex": 1,
+    "explanation": "El mecanismo de atención de los Transformers permite que el modelo relacione cualquier parte de una secuencia con cualquier otra directamente y en paralelo, superando las limitaciones secuenciales de arquitecturas anteriores como las redes recurrentes (RNN)."
+  },
+  {
+    "id": "TECHNOLOGY_H_012",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la razón técnica principal por la que un SSD suele ser considerablemente más rápido que un HDD tradicional?",
+    "options": ["El SSD tiene un disco magnético que gira a mayor velocidad que el HDD", "El SSD almacena datos en chips de memoria flash sin partes mecánicas móviles, eliminando el tiempo de búsqueda y rotación que requiere un HDD", "El HDD siempre utiliza una conexión más rápida que el SSD", "No existe ninguna diferencia real de velocidad entre ambos tipos de almacenamiento"],
+    "correctIndex": 1,
+    "explanation": "A diferencia del HDD, que depende de discos magnéticos giratorios y un brazo mecánico para leer y escribir datos, el SSD usa memoria flash sin partes móviles, eliminando los tiempos de búsqueda y rotación mecánica, lo que lo hace mucho más rápido."
+  },
+  {
+    "id": "TECHNOLOGY_H_013",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cómo garantiza una 'firma digital' la autenticidad e integridad de un documento electrónico?",
+    "options": ["Simplemente adjuntando una imagen de la firma manuscrita de la persona al documento", "Cifrando un resumen (hash) del documento con la clave privada del firmante, de modo que cualquiera pueda verificarlo con la clave pública correspondiente, confirmando que el documento no fue alterado y proviene de esa persona", "Enviando el documento por correo electrónico certificado", "Protegiendo el documento únicamente con una contraseña compartida"],
+    "correctIndex": 1,
+    "explanation": "Una firma digital cifra un resumen criptográfico (hash) del documento usando la clave privada del firmante; cualquiera puede verificar esa firma con la clave pública correspondiente, confirmando tanto la identidad del firmante como que el documento no ha sido modificado."
+  },
+  {
+    "id": "TECHNOLOGY_H_014",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia fundamental entre compresión de datos 'con pérdida' (lossy) y 'sin pérdida' (lossless)?",
+    "options": ["La compresión con pérdida nunca reduce el tamaño del archivo", "La compresión sin pérdida permite reconstruir exactamente los datos originales, mientras que la compresión con pérdida descarta permanentemente parte de la información para lograr una mayor reducción de tamaño", "Ambos tipos de compresión producen exactamente el mismo resultado final", "La compresión con pérdida solo se aplica a archivos de texto"],
+    "correctIndex": 1,
+    "explanation": "La compresión sin pérdida (como ZIP) permite recuperar exactamente los datos originales, mientras que la compresión con pérdida (como JPEG o MP3) elimina permanentemente cierta información, generalmente imperceptible, para lograr archivos más pequeños."
+  },
+  {
+    "id": "TECHNOLOGY_H_015",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué propone evaluar originalmente la 'prueba de Turing' en el contexto de la inteligencia artificial?",
+    "options": ["La velocidad de procesamiento de una computadora en operaciones por segundo", "Si un evaluador humano puede distinguir, mediante conversación, entre las respuestas de una máquina y las de un humano", "La cantidad de memoria RAM necesaria para ejecutar un programa de IA", "La capacidad de una máquina para resolver ecuaciones matemáticas complejas"],
+    "correctIndex": 1,
+    "explanation": "La prueba de Turing, propuesta por Alan Turing, evalúa si un evaluador humano, al conversar con una máquina y un humano sin saber cuál es cuál, es incapaz de distinguir de manera consistente cuál de los dos es la máquina."
+  },
+  {
+    "id": "TECHNOLOGY_H_016",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es una de las mejoras técnicas clave que ofrece la tecnología 5G respecto a su predecesora 4G?",
+    "options": ["5G solo funciona en interiores, nunca en espacios abiertos", "5G ofrece, entre otras mejoras, latencia considerablemente más baja y mayor capacidad para conectar simultáneamente un número mucho más alto de dispositivos", "5G elimina por completo la necesidad de antenas o infraestructura física", "5G reduce la velocidad de transmisión de datos respecto a 4G para ahorrar energía"],
+    "correctIndex": 1,
+    "explanation": "Entre sus principales mejoras, la tecnología 5G ofrece una latencia mucho menor que 4G y una mayor capacidad para soportar simultáneamente una gran cantidad de dispositivos conectados, además de mayores velocidades potenciales."
+  }
+]

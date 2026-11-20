@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGate</string>
+    <string name="accessibility_service_label">Bloqueo de Instagram de FocusGate</string>
+    <string name="accessibility_service_description">Permite que FocusGate detecte cuando abres Instagram para mostrarte un desafío de conocimiento antes de dejarte continuar. FocusGate no lee el contenido de otras aplicaciones: solo observa qué aplicación está en primer plano.</string>
+</resources>

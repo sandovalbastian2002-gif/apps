@@ -1,0 +1,502 @@
+[
+  {
+    "id": "PROGRAMMING_E_001",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué estructura de datos funciona bajo el principio 'el último en entrar es el primero en salir' (LIFO)?",
+    "options": ["Cola (Queue)", "Pila (Stack)", "Árbol (Tree)", "Lista enlazada"],
+    "correctIndex": 1,
+    "explanation": "Una pila (stack) sigue el principio LIFO: el último elemento agregado es el primero en salir."
+  },
+  {
+    "id": "PROGRAMMING_E_002",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué estructura de datos funciona bajo el principio 'el primero en entrar es el primero en salir' (FIFO)?",
+    "options": ["Pila (Stack)", "Cola (Queue)", "Árbol (Tree)", "Grafo (Graph)"],
+    "correctIndex": 1,
+    "explanation": "Una cola (queue) sigue el principio FIFO: el primer elemento en entrar es el primero en salir."
+  },
+  {
+    "id": "PROGRAMMING_E_003",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué símbolo se utiliza en Python para escribir un comentario de una sola línea?",
+    "options": ["//", "#", "/* */", "--"],
+    "correctIndex": 1,
+    "explanation": "En Python, el símbolo # indica que el resto de la línea es un comentario y no se ejecuta."
+  },
+  {
+    "id": "PROGRAMMING_E_004",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes opciones es un lenguaje de programación, y no un lenguaje de marcado?",
+    "options": ["HTML", "CSS", "Python", "JSON"],
+    "correctIndex": 2,
+    "explanation": "Python es un lenguaje de programación de propósito general, mientras que HTML y CSS son lenguajes de marcado y diseño, y JSON es un formato de datos."
+  },
+  {
+    "id": "PROGRAMMING_E_005",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En JavaScript, ¿qué palabra clave se utiliza para declarar una variable que no podrá ser reasignada?",
+    "options": ["var", "let", "const", "static"],
+    "correctIndex": 2,
+    "explanation": "La palabra clave const declara una variable cuya referencia no puede reasignarse después de su declaración."
+  },
+  {
+    "id": "PROGRAMMING_E_006",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué tipo de dato representa únicamente los valores verdadero o falso?",
+    "options": ["Entero", "Booleano", "Cadena de texto", "Flotante"],
+    "correctIndex": 1,
+    "explanation": "El tipo booleano solo puede tomar dos valores: verdadero (true) o falso (false)."
+  },
+  {
+    "id": "PROGRAMMING_E_007",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el resultado de la operación 5 % 2 usando el operador módulo en la mayoría de los lenguajes de programación?",
+    "options": ["2", "2.5", "1", "0"],
+    "correctIndex": 2,
+    "explanation": "El operador módulo devuelve el resto de la división; 5 dividido entre 2 da resto 1."
+  },
+  {
+    "id": "PROGRAMMING_E_008",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué estructura de control repite un bloque de código mientras una condición se mantenga verdadera?",
+    "options": ["if", "for each", "while", "switch"],
+    "correctIndex": 2,
+    "explanation": "El bucle while ejecuta repetidamente un bloque de código mientras su condición evalúe a verdadero."
+  },
+  {
+    "id": "PROGRAMMING_E_009",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En programación, ¿qué se entiende por un 'bug'?",
+    "options": ["Una nueva función del programa", "Un error que provoca un comportamiento incorrecto", "Un comentario en el código", "Una variable global"],
+    "correctIndex": 1,
+    "explanation": "Un 'bug' es un defecto o error en el código que causa que el programa se comporte de manera inesperada o incorrecta."
+  },
+  {
+    "id": "PROGRAMMING_E_010",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes estructuras de datos almacena información en pares clave-valor?",
+    "options": ["Pila (Stack)", "Diccionario (Hash map)", "Cola (Queue)", "Arreglo (Array)"],
+    "correctIndex": 1,
+    "explanation": "Un diccionario o tabla hash asocia cada clave única con un valor, permitiendo un acceso rápido mediante la clave."
+  },
+  {
+    "id": "PROGRAMMING_E_011",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "En lenguajes como Python y JavaScript, ¿cuál es el índice del primer elemento de un arreglo?",
+    "options": ["1", "0", "-1", "Depende del tamaño del arreglo"],
+    "correctIndex": 1,
+    "explanation": "La mayoría de los lenguajes modernos usan indexación basada en cero, por lo que el primer elemento tiene índice 0."
+  },
+  {
+    "id": "PROGRAMMING_E_012",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué hace la función print() en Python?",
+    "options": ["Guarda una variable en un archivo", "Muestra texto o valores en la consola", "Elimina una variable de la memoria", "Crea una nueva función"],
+    "correctIndex": 1,
+    "explanation": "La función print() envía texto o el valor de variables a la salida estándar, normalmente la consola."
+  },
+  {
+    "id": "PROGRAMMING_E_013",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes opciones es un operador de comparación en la mayoría de los lenguajes de programación?",
+    "options": ["=", "+=", "==", "&&"],
+    "correctIndex": 2,
+    "explanation": "El operador == compara si dos valores son iguales, a diferencia de = que asigna un valor."
+  },
+  {
+    "id": "PROGRAMMING_E_014",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cómo se define mejor un 'algoritmo' en programación?",
+    "options": ["Un lenguaje de programación específico", "Una secuencia de pasos definidos para resolver un problema", "Un tipo de error en el código", "Un programa que solo funciona en internet"],
+    "correctIndex": 1,
+    "explanation": "Un algoritmo es una secuencia finita y ordenada de pasos o instrucciones diseñada para resolver un problema."
+  },
+  {
+    "id": "PROGRAMMING_E_015",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes es considerada una estructura de datos lineal?",
+    "options": ["Árbol binario", "Grafo", "Lista enlazada", "Tabla hash"],
+    "correctIndex": 2,
+    "explanation": "Una lista enlazada organiza sus elementos en una secuencia lineal, uno después de otro, a diferencia de árboles y grafos."
+  },
+  {
+    "id": "PROGRAMMING_E_016",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Qué extensión de archivo se utiliza habitualmente para guardar un script de Python?",
+    "options": [".py", ".java", ".exe", ".js"],
+    "correctIndex": 0,
+    "explanation": "Los archivos de código fuente de Python se guardan convencionalmente con la extensión .py."
+  },
+  {
+    "id": "PROGRAMMING_E_017",
+    "category": "PROGRAMMING",
+    "difficulty": "EASY",
+    "language": "ES",
+    "question": "¿Cuál es el propósito principal de una función en programación?",
+    "options": ["Almacenar datos permanentemente en disco", "Agrupar código reutilizable que realiza una tarea específica", "Definir el diseño visual de una aplicación", "Conectarse automáticamente a internet"],
+    "correctIndex": 1,
+    "explanation": "Una función encapsula un bloque de código que realiza una tarea concreta y puede reutilizarse varias veces en un programa."
+  },
+  {
+    "id": "PROGRAMMING_M_001",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la complejidad temporal en el peor caso de la búsqueda binaria sobre un arreglo ordenado de n elementos?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correctIndex": 1,
+    "explanation": "La búsqueda binaria descarta la mitad de los elementos restantes en cada paso, logrando una complejidad logarítmica O(log n)."
+  },
+  {
+    "id": "PROGRAMMING_M_002",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué imprime el siguiente código en Python?\n```python\nx = [1, 2, 3]\ny = x\ny.append(4)\nprint(x)\n```",
+    "options": ["[1, 2, 3]", "[1, 2, 3, 4]", "Error de ejecución", "[4]"],
+    "correctIndex": 1,
+    "explanation": "y = x no crea una copia, sino que apunta a la misma lista en memoria; al modificar y también se modifica x."
+  },
+  {
+    "id": "PROGRAMMING_M_003",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué estructura de datos es más adecuada para implementar la función de 'deshacer' (undo) en un editor de texto?",
+    "options": ["Cola (Queue)", "Pila (Stack)", "Tabla hash", "Árbol binario"],
+    "correctIndex": 1,
+    "explanation": "Una pila permite deshacer la última acción realizada primero, siguiendo el orden inverso en que se agregaron las acciones (LIFO)."
+  },
+  {
+    "id": "PROGRAMMING_M_004",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes afirmaciones describe correctamente la recursión?",
+    "options": ["Un bucle que nunca termina", "Una función que se llama a sí misma para resolver subproblemas más pequeños", "Una variable que cambia de tipo dinámicamente", "Un método exclusivo de la programación orientada a objetos"],
+    "correctIndex": 1,
+    "explanation": "La recursión consiste en que una función se invoca a sí misma, generalmente con una entrada reducida, hasta alcanzar un caso base."
+  },
+  {
+    "id": "PROGRAMMING_M_005",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En JavaScript, ¿cuál es la diferencia principal entre los operadores '==' y '==='?",
+    "options": ["No hay ninguna diferencia", "'===' compara también el tipo de dato, mientras que '==' realiza conversión de tipos", "'==' solo funciona con números", "'===' es más lento pero nunca se usa"],
+    "correctIndex": 1,
+    "explanation": "El operador '===' exige que el valor y el tipo de dato coincidan, mientras que '==' convierte los tipos antes de comparar."
+  },
+  {
+    "id": "PROGRAMMING_M_006",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la complejidad temporal del ordenamiento burbuja (bubble sort) en el peor caso?",
+    "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+    "correctIndex": 2,
+    "explanation": "En el peor caso, bubble sort necesita comparar e intercambiar elementos repetidamente, resultando en una complejidad cuadrática O(n²)."
+  },
+  {
+    "id": "PROGRAMMING_M_007",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué es una 'clausura' (closure) en JavaScript?",
+    "options": ["Un error que detiene la ejecución del programa", "Una función que recuerda las variables de su entorno léxico aunque ese entorno ya haya terminado de ejecutarse", "Un tipo de bucle infinito", "Una forma de declarar constantes globales"],
+    "correctIndex": 1,
+    "explanation": "Una clausura permite que una función interna conserve acceso a las variables del entorno donde fue creada, incluso después de que la función externa haya finalizado."
+  },
+  {
+    "id": "PROGRAMMING_M_008",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia principal entre una lista y una tupla en Python?",
+    "options": ["Las tuplas solo pueden contener números", "Las listas son inmutables y las tuplas son mutables", "Las tuplas son inmutables y las listas son mutables", "No existe ninguna diferencia real"],
+    "correctIndex": 2,
+    "explanation": "En Python, una tupla no puede modificarse una vez creada (es inmutable), mientras que una lista sí permite agregar, eliminar o cambiar elementos."
+  },
+  {
+    "id": "PROGRAMMING_M_009",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué describe mejor el principio de 'herencia' en programación orientada a objetos?",
+    "options": ["Una clase puede adquirir atributos y métodos de otra clase", "Un objeto solo puede existir dentro de una función", "Dos clases no pueden compartir ningún método", "Una variable puede cambiar de tipo libremente"],
+    "correctIndex": 0,
+    "explanation": "La herencia permite que una clase (subclase) reutilice y extienda los atributos y métodos de otra clase (superclase)."
+  },
+  {
+    "id": "PROGRAMMING_M_010",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál de las siguientes estructuras de datos sigue el principio FIFO (primero en entrar, primero en salir)?",
+    "options": ["Pila (Stack)", "Cola (Queue)", "Árbol AVL", "Tabla hash"],
+    "correctIndex": 1,
+    "explanation": "La cola (queue) procesa los elementos en el mismo orden en que fueron agregados, es decir, FIFO."
+  },
+  {
+    "id": "PROGRAMMING_M_011",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué hace el operador de propagación ('spread', ...) en JavaScript cuando se aplica a un arreglo?",
+    "options": ["Elimina todos los elementos del arreglo", "Expande los elementos del arreglo en elementos individuales", "Convierte el arreglo en una cadena de texto", "Ordena el arreglo de forma ascendente"],
+    "correctIndex": 1,
+    "explanation": "El operador spread descompone los elementos de un iterable, como un arreglo, en elementos individuales, útil por ejemplo al copiar o combinar arreglos."
+  },
+  {
+    "id": "PROGRAMMING_M_012",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En un árbol binario de búsqueda (BST) balanceado con n nodos, ¿cuál es la complejidad de buscar un elemento?",
+    "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+    "correctIndex": 1,
+    "explanation": "Al estar balanceado, el árbol tiene una altura proporcional a log n, por lo que la búsqueda recorre como máximo esa cantidad de niveles."
+  },
+  {
+    "id": "PROGRAMMING_M_013",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué paradigma de programación favorece el uso de funciones puras y evita mutar variables o generar efectos secundarios?",
+    "options": ["Programación orientada a objetos", "Programación funcional", "Programación estructurada", "Programación orientada a eventos"],
+    "correctIndex": 1,
+    "explanation": "La programación funcional trata la computación como la evaluación de funciones matemáticas, evitando el estado mutable y los efectos secundarios."
+  },
+  {
+    "id": "PROGRAMMING_M_014",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué imprime este código en Python?\n```python\ndef f(x, lista=[]):\n    lista.append(x)\n    return lista\n\nprint(f(1))\nprint(f(2))\n```",
+    "options": ["[1] y [2]", "[1] y [1, 2]", "[1, 2] y [1, 2]", "Error de ejecución"],
+    "correctIndex": 1,
+    "explanation": "El valor por defecto de una lista mutable en Python se crea una sola vez y se comparte entre llamadas, por lo que acumula los valores: primero [1] y luego [1, 2]."
+  },
+  {
+    "id": "PROGRAMMING_M_015",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Qué es el 'hashing' en el contexto de estructuras de datos?",
+    "options": ["Ordenar una lista de forma descendente", "Convertir una entrada de datos en un valor de tamaño fijo para permitir un acceso rápido", "Eliminar duplicados de un arreglo", "Dividir un programa en varios hilos"],
+    "correctIndex": 1,
+    "explanation": "El hashing aplica una función que transforma datos de entrada en un valor (hash) de tamaño fijo, usado para indexar y acceder rápidamente a los datos."
+  },
+  {
+    "id": "PROGRAMMING_M_016",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "¿Cuál es una ventaja de una lista enlazada frente a un arreglo estático?",
+    "options": ["Permite acceso directo a cualquier elemento en O(1)", "Permite inserciones y eliminaciones eficientes sin desplazar otros elementos", "Ocupa siempre menos memoria que un arreglo", "Sus elementos están garantizados a estar ordenados"],
+    "correctIndex": 1,
+    "explanation": "Al no requerir memoria contigua, una lista enlazada puede insertar o eliminar nodos sin necesidad de desplazar el resto de los elementos."
+  },
+  {
+    "id": "PROGRAMMING_M_017",
+    "category": "PROGRAMMING",
+    "difficulty": "MEDIUM",
+    "language": "ES",
+    "question": "En algoritmos de ordenamiento, ¿qué significa que un algoritmo sea 'estable'?",
+    "options": ["Que nunca falla ni lanza errores", "Que mantiene el orden relativo original de los elementos con claves iguales", "Que siempre tiene complejidad O(n log n)", "Que no requiere memoria adicional"],
+    "correctIndex": 1,
+    "explanation": "Un algoritmo de ordenamiento estable conserva el orden relativo entre elementos que tienen el mismo valor de comparación."
+  },
+  {
+    "id": "PROGRAMMING_H_001",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la complejidad temporal del algoritmo Quicksort en su peor caso?",
+    "options": ["O(n log n)", "O(n)", "O(n²)", "O(log n)"],
+    "correctIndex": 2,
+    "explanation": "Cuando el pivote elegido genera particiones muy desbalanceadas (por ejemplo, en un arreglo ya ordenado con mala elección de pivote), Quicksort degrada a O(n²)."
+  },
+  {
+    "id": "PROGRAMMING_H_002",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En teoría de la computación, ¿qué significa que un problema sea 'NP-completo'?",
+    "options": ["Que puede resolverse en tiempo constante", "Que no tiene solución conocida bajo ninguna circunstancia", "Que pertenece a NP y es al menos tan difícil como cualquier otro problema de NP, sin algoritmo conocido en tiempo polinomial", "Que solo puede resolverse con computación cuántica"],
+    "correctIndex": 2,
+    "explanation": "Un problema NP-completo está en NP y todo problema de NP puede reducirse a él en tiempo polinomial, por lo que se considera entre los más difíciles de esa clase."
+  },
+  {
+    "id": "PROGRAMMING_H_003",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué técnica de programación dinámica evita recalcular subproblemas ya resueltos, almacenando sus resultados para reutilizarlos?",
+    "options": ["Recursión de cola", "Memoización", "Backtracking", "Poda alfa-beta"],
+    "correctIndex": 1,
+    "explanation": "La memoización guarda en una estructura (como una tabla o diccionario) los resultados de subproblemas ya calculados para evitar recomputarlos."
+  },
+  {
+    "id": "PROGRAMMING_H_004",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la ventaja de implementar una cola de prioridad con un heap binario en lugar de una lista ordenada?",
+    "options": ["El heap usa menos memoria en todos los casos", "La inserción en el heap es O(log n), mientras que mantener una lista ordenada requiere O(n)", "El heap garantiza que todos los elementos estén completamente ordenados en todo momento", "La lista ordenada siempre es más rápida para insertar"],
+    "correctIndex": 1,
+    "explanation": "Insertar en un heap binario toma O(log n), mientras que insertar en una lista ordenada requiere desplazar elementos, lo que cuesta O(n)."
+  },
+  {
+    "id": "PROGRAMMING_H_005",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el análisis de algoritmos, ¿qué diferencia a la notación Θ (Theta) de la notación O (Big O)?",
+    "options": ["Theta solo se usa para algoritmos recursivos", "Theta proporciona una cota ajustada (superior e inferior), mientras que Big O solo da una cota superior", "No existe ninguna diferencia, son sinónimos", "Big O siempre es más precisa que Theta"],
+    "correctIndex": 1,
+    "explanation": "La notación Θ describe el comportamiento exacto de crecimiento (acotado por arriba y por abajo), mientras que O solo acota el crecimiento máximo posible."
+  },
+  {
+    "id": "PROGRAMMING_H_006",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué problema clásico resuelve el algoritmo de Dijkstra?",
+    "options": ["Encontrar el árbol de expansión mínima de un grafo", "Encontrar el camino más corto desde un nodo origen a todos los demás en un grafo con pesos no negativos", "Ordenar los nodos de un grafo topológicamente", "Detectar ciclos negativos en un grafo"],
+    "correctIndex": 1,
+    "explanation": "Dijkstra calcula la distancia mínima desde un nodo origen hacia todos los demás nodos, siempre que los pesos de las aristas sean no negativos."
+  },
+  {
+    "id": "PROGRAMMING_H_007",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En programación concurrente, ¿qué es una 'condición de carrera' (race condition)?",
+    "options": ["Un algoritmo diseñado para ejecutarse lo más rápido posible", "Un error que ocurre cuando el resultado depende del orden impredecible en que varios hilos acceden a datos compartidos", "Un tipo de bucle que se ejecuta en paralelo intencionalmente", "Un mecanismo de sincronización entre procesos"],
+    "correctIndex": 1,
+    "explanation": "Una condición de carrera surge cuando el resultado final de un programa varía según el orden de ejecución no determinista de hilos que comparten datos."
+  },
+  {
+    "id": "PROGRAMMING_H_008",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué ocurre con el rendimiento de una tabla hash con direccionamiento abierto cuando el factor de carga se acerca a 1?",
+    "options": ["El rendimiento mejora porque se usa toda la memoria disponible", "El rendimiento se degrada significativamente debido al aumento de colisiones y agrupamiento (clustering)", "El rendimiento permanece constante sin importar el factor de carga", "La tabla se reorganiza automáticamente sin costo adicional"],
+    "correctIndex": 1,
+    "explanation": "Con direccionamiento abierto, a medida que la tabla se llena, las colisiones y el agrupamiento aumentan, degradando el tiempo de búsqueda e inserción."
+  },
+  {
+    "id": "PROGRAMMING_H_009",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cómo se denomina la clase de problemas que pueden resolverse en tiempo polinomial mediante una máquina de Turing determinista?",
+    "options": ["NP", "P", "NP-difícil", "EXP"],
+    "correctIndex": 1,
+    "explanation": "La clase P agrupa los problemas de decisión resolubles en tiempo polinomial por un algoritmo determinista."
+  },
+  {
+    "id": "PROGRAMMING_H_010",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el diseño de compiladores, ¿qué realiza la fase de 'análisis léxico' (lexical analysis)?",
+    "options": ["Genera el código máquina final", "Convierte el código fuente en una secuencia de tokens", "Optimiza el uso de memoria del programa", "Verifica la lógica semántica del programa"],
+    "correctIndex": 1,
+    "explanation": "El análisis léxico divide el código fuente en unidades mínimas con significado, llamadas tokens (palabras clave, identificadores, operadores, etc.)."
+  },
+  {
+    "id": "PROGRAMMING_H_011",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Qué establece el teorema CAP en el diseño de sistemas distribuidos?",
+    "options": ["Que todo sistema distribuido debe usar bases de datos relacionales", "Que un sistema distribuido no puede garantizar simultáneamente consistencia, disponibilidad y tolerancia a particiones", "Que la disponibilidad siempre es más importante que la consistencia", "Que la tolerancia a particiones es opcional en sistemas modernos"],
+    "correctIndex": 1,
+    "explanation": "El teorema CAP afirma que, ante una partición de red, un sistema distribuido debe sacrificar consistencia o disponibilidad; no puede garantizar las tres propiedades a la vez."
+  },
+  {
+    "id": "PROGRAMMING_H_012",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es una diferencia clave entre la programación orientada a objetos y la programación funcional respecto al manejo del estado?",
+    "options": ["La POO no permite el uso de variables", "La POO encapsula y muta el estado en objetos, mientras que la programación funcional favorece funciones puras sin efectos secundarios", "La programación funcional siempre es más lenta en todos los casos", "Ambas manejan el estado exactamente de la misma manera"],
+    "correctIndex": 1,
+    "explanation": "La POO suele modelar el estado mutable dentro de objetos, mientras que la programación funcional busca evitar mutaciones y efectos secundarios mediante funciones puras."
+  },
+  {
+    "id": "PROGRAMMING_H_013",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "En el algoritmo de Kruskal para construir un árbol de expansión mínima, ¿qué estructura de datos se utiliza para detectar ciclos eficientemente?",
+    "options": ["Tabla hash", "Cola de prioridad", "Conjuntos disjuntos (Union-Find)", "Pila (Stack)"],
+    "correctIndex": 2,
+    "explanation": "La estructura Union-Find permite verificar rápidamente si dos nodos ya pertenecen al mismo componente, evitando así formar ciclos al agregar aristas."
+  },
+  {
+    "id": "PROGRAMMING_H_014",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cómo se define formalmente la 'programación dinámica' como técnica algorítmica?",
+    "options": ["Un método que siempre usa recursión sin almacenar resultados", "Una técnica que descompone un problema en subproblemas superpuestos y combina sus soluciones óptimas almacenadas", "Un paradigma exclusivo para problemas de grafos", "Una forma de paralelizar cualquier algoritmo automáticamente"],
+    "correctIndex": 1,
+    "explanation": "La programación dinámica resuelve problemas identificando subproblemas superpuestos, almacenando sus soluciones óptimas y combinándolas para evitar recomputación."
+  },
+  {
+    "id": "PROGRAMMING_H_015",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la complejidad temporal de construir un heap binario a partir de un arreglo desordenado de n elementos, utilizando el método óptimo de 'heapify'?",
+    "options": ["O(n log n)", "O(n²)", "O(n)", "O(log n)"],
+    "correctIndex": 2,
+    "explanation": "Aunque insertar elementos uno a uno costaría O(n log n), el algoritmo de heapify construye el heap completo en tiempo lineal O(n) mediante un análisis más preciso."
+  },
+  {
+    "id": "PROGRAMMING_H_016",
+    "category": "PROGRAMMING",
+    "difficulty": "HARD",
+    "language": "ES",
+    "question": "¿Cuál es la diferencia principal entre el tipado estático y el tipado dinámico en lenguajes de programación?",
+    "options": ["El tipado estático no permite declarar tipos explícitamente", "El tipado estático verifica los tipos en tiempo de compilación, mientras que el dinámico lo hace en tiempo de ejecución", "El tipado dinámico es exclusivo de lenguajes compilados", "No existe ninguna diferencia práctica entre ambos"],
+    "correctIndex": 1,
+    "explanation": "En el tipado estático, el compilador comprueba la compatibilidad de tipos antes de ejecutar el programa; en el dinámico, esa verificación ocurre mientras el programa se ejecuta."
+  }
+]
