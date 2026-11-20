@@ -18,7 +18,7 @@ import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.LockOpen
 import androidx.compose.material.icons.filled.Schedule
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.filled.ShowChart
+import androidx.compose.material.icons.automirrored.filled.ShowChart
 import androidx.compose.material.icons.filled.Whatshot
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
@@ -156,7 +156,7 @@ fun HomeScreen(
 
         item {
             Button(onClick = onOpenStats, modifier = Modifier.fillMaxWidth()) {
-                Icon(Icons.Filled.ShowChart, contentDescription = null)
+                Icon(Icons.AutoMirrored.Filled.ShowChart, contentDescription = null)
                 Spacer(Modifier.size(8.dp))
                 Text("Estadísticas")
             }

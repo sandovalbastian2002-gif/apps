@@ -1,5 +1,6 @@
 # Portable build tools used only on this machine; never commit these (huge, host-specific)
 .tools/
+FocusGate-debug.apk
 
 # Android Studio / Gradle
 app-project/local.properties

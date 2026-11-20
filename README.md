@@ -3,30 +3,20 @@
 Aplicación Android nativa (Kotlin + Jetpack Compose) que intercepta la apertura de Instagram
 y exige completar un desafío de 10 preguntas de conocimiento general antes de dejar pasar.
 
-## Estado de este entregable: código completo, APK pendiente de compilar
+## Estado de este entregable: compilado y funcionando
 
-El proyecto está terminado: toda la lógica (bloqueo, preguntas, estadísticas, configuración,
-UI) está escrita y el banco de 500 preguntas está cargado y validado. Lo que **no** pude
-generar desde esta sesión es el `FocusGate.apk` ya compilado, por un problema específico de
-esta máquina, no del proyecto:
+El proyecto está terminado y **ya compila limpio**: `./gradlew assembleDebug` corre sin errores
+ni advertencias, produciendo `app-project/app/build/outputs/apk/debug/app-debug.apk`.
 
-- Instalé un JDK, el Android SDK y Gradle portátiles en este equipo sin tocar nada del sistema.
-- Al ejecutar Gradle, cada intento falla con `java.io.IOException: Unable to establish loopback
-  connection`. Aislé la causa con pruebas mínimas (sockets simples funcionan bien; el fallo es
-  específico de `java.nio.channels.Selector.open()`, algo que usa internamente cualquier proceso
-  Java moderno para redes, incluido Gradle) y lo reproduje igual con dos versiones distintas de
-  JDK 17, así que no es un JDK roto ni una app mal configurada: algo en este equipo (muy
-  probablemente software de seguridad/EDR corporativo, dado que es un Windows 11 Enterprise
-  gestionado) está interceptando esa conexión de loopback interna. No es algo que deba ni pueda
-  solucionar yo mismo, porque implicaría tocar configuración de seguridad del sistema.
-- Por eso no pude ejecutar `gradlew assembleDebug` aquí. El proyecto sí incluye el wrapper de
-  Gradle (`gradlew`, `gradlew.bat`, `gradle/wrapper/...`) ya configurado, listo para que
-  Android Studio (o cualquier máquina sin esa restricción) lo compile sin pasos adicionales.
-
-**Recomendación:** abre `app-project` en Android Studio en tu propio computador (o en uno sin
-esa restricción de red) y pulsa "Run" — debería compilar y generar el APK sin problemas, ya que
-el bloqueo es de este entorno, no del código. Si quieres, también puedo intentar compilarlo
-desde una sesión en la nube en lugar de esta máquina.
+Nota técnica sobre el camino para llegar hasta acá: en este equipo, cualquier build de Gradle
+(o cualquier programa Java que use `java.nio.channels.Selector`, usado internamente por Gradle
+para la comunicación con su daemon) fallaba con `Unable to establish loopback connection`. La
+causa real **no era un antivirus ni una restricción de seguridad**: era que la carpeta temporal
+por defecto de Windows (`%TEMP%`, bajo la carpeta de usuario) generaba una ruta con la que la
+implementación de sockets Unix domain de Windows (`afunix.sys`) no podía trabajar correctamente.
+La solución fue simplemente apuntar las variables de entorno `TMP`/`TEMP` a una carpeta corta
+(por ejemplo `C:\FocusGateTools\tmp`) antes de ejecutar Gradle — nada de software de seguridad
+estaba bloqueando nada.
 
 ## Estructura del repositorio
 
@@ -48,12 +38,13 @@ FocusGate/
    o el que tengas instalado en tu propio equipo si lo abres en otra máquina).
 3. Conecta un teléfono Android (con "Depuración USB" activada) o usa un emulador, y pulsa **Run**.
 
-## Cómo generar e instalar el APK en tu teléfono
+## Cómo instalar el APK en tu teléfono
 
-Una vez que compiles el proyecto (ver arriba) obtendrás un APK en
-`app-project/app/build/outputs/apk/debug/app-debug.apk`. Para instalarlo:
+El APK ya compilado se entrega junto a este proyecto (`FocusGate-debug.apk`); también puedes
+regenerarlo en cualquier momento con `./gradlew assembleDebug`, y quedará en
+`app-project/app/build/outputs/apk/debug/app-debug.apk`.
 
-1. Copia ese `app-debug.apk` a tu teléfono.
+1. Copia `FocusGate-debug.apk` a tu teléfono.
 2. En tu teléfono, activa "Instalar apps de orígenes desconocidos" para el administrador de
    archivos o la app que uses para abrir el APK (Android lo pedirá automáticamente).
 3. Abre el archivo APK en el teléfono y confirma la instalación.
